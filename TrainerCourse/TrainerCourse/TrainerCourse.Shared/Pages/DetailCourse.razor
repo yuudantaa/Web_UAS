@@ -1,0 +1,197 @@
+﻿@page "/detail-course/{id}"
+@using TrainerCourse.Shared.Model
+@using TrainerCourse.Shared.Services
+@inject ICourseService CourseService
+@inject NavigationManager NavigationManager
+
+<div class="container mt-4">
+    @if (course == null)
+    {
+        <div class="text-center">
+            <div class="spinner-border" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <p>Loading course details...</p>
+        </div>
+    }
+    else
+    {
+        <div class="card shadow">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title mb-0">
+                    <i class="bi bi-book"></i> Detail Course
+                </h3>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h4 class="text-primary mb-3">
+                            <i class="bi bi-info-circle"></i> Data Course
+                        </h4>
+                        <table class="table table-striped">
+                            <tbody>
+                                <tr>
+                                    <th style="width: 40%">ID Course</th>
+                                    <td>@course.CourseId</td>
+                                </tr>
+                                <tr>
+                                    <th>Nama Course</th>
+                                    <td>@course.CourseName</td>
+                                </tr>
+                                <tr>
+                                    <th>Deskripsi Course</th>
+                                    <td>
+                                        @if (string.IsNullOrEmpty(course.CourseDescription))
+                                        {
+                                            <span class="text-muted">Tidak ada deskripsi</span>
+                                        }
+                                        else
+                                        {
+                                            @course.CourseDescription
+                                        }
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Tipe Course</th>
+                                    <td>
+                                        <span class="badge bg-info">@course.CourseType</span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Durasi Course</th>
+                                    <td>
+                                        @if (course.Duration.HasValue)
+                                        {
+                                            <text>@course.Duration.Value jam</text>
+                                        }
+                                        else
+                                        {
+                                            <span class="text-muted">Tidak ditentukan</span>
+                                        }
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Tanggal Dibuat</th>
+                                    <td>@course.Createdate.ToString("dd MMMM yyyy HH:mm")</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="col-md-6">
+                        @if (course.Trainer != null)
+                        {
+                            <h4 class="text-success mb-3">
+                                <i class="bi bi-person-badge"></i> Data Trainer
+                            </h4>
+                            <table class="table table-striped">
+                                <tbody>
+                                    <tr>
+                                        <th style="width: 40%">ID Trainer</th>
+                                        <td>@course.Trainer.TrainerId</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Nama Trainer</th>
+                                        <td>@course.Trainer.TrainerName</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Spesialisasi Trainer</th>
+                                        <td>
+                                            <span class="badge bg-success">@course.Trainer.TrainerSpecialization</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Alamat Trainer</th>
+                                        <td>@course.Trainer.TrainerAddress</td>
+                                    </tr>
+                                    <tr>
+                                        <th>No Telepon Trainer</th>
+                                        <td>@course.Trainer.TrainerPhone</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Email Trainer</th>
+                                        <td>
+                                            <a href="mailto:@course.Trainer.TrainerEmail" class="text-decoration-none">
+                                                @course.Trainer.TrainerEmail
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        }
+                        else
+                        {
+                            <div class="alert alert-warning">
+                                <i class="bi bi-exclamation-triangle"></i>
+                                <strong>Belum ada trainer yang ditugaskan</strong>
+                                <p class="mb-0">Course ini belum memiliki trainer yang terkait.</p>
+                            </div>
+                        }
+                    </div>
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <div class="d-flex gap-2 justify-content-end">
+                            <button class="btn btn-outline-secondary" @onclick="NavigateToCourseList">
+                                <i class="bi bi-arrow-left"></i> Kembali ke Daftar Course
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public string Id { get; set; } = string.Empty;
+
+    private Course? course;
+    private bool isLoading = true;
+    private string errorMessage = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCourseDetail();
+    }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        await LoadCourseDetail();
+    }
+
+    private async Task LoadCourseDetail()
+    {
+        try
+        {
+            isLoading = true;
+            errorMessage = string.Empty;
+
+            if (int.TryParse(Id, out int courseId))
+            {
+                course = await CourseService.GetCourseByIdAsync(courseId);
+            }
+            else
+            {
+                errorMessage = "ID course tidak valid";
+            }
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error loading course details: {ex.Message}";
+            Console.WriteLine($"Error: {ex.Message}");
+        }
+        finally
+        {
+            isLoading = false;
+            StateHasChanged();
+        }
+    }
+
+    private void NavigateToCourseList()
+    {
+        NavigationManager.NavigateTo("/course");
+    }
+}

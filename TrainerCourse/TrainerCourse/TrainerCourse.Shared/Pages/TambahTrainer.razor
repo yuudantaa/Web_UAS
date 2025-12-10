@@ -1,0 +1,61 @@
+﻿@page "/tambah-trainer"
+@using TrainerCourse.Shared.Model
+@using TrainerCourse.Shared.Services
+@inject ITrainerService TrainerService
+@inject NavigationManager Navigation
+
+<div class="card">
+    <div class="card-header">
+        <h3>Tambah Trainer Baru</h3>
+    </div>
+
+    <div class="card-body">
+        <form method="post" @onsubmit="HandleSubmit">
+            <div class="form-group">
+                <label>Nama Trainer</label>
+                <input type="text" @bind="trainer.TrainerName" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label>Alamat Trainer</label>
+                <input type="text" @bind="trainer.TrainerAddress" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label>Spesialisasi</label>
+                <select class="form-control" @bind="trainer.TrainerSpecialization">
+                    <option value="FrontEnd">Front-end</option>
+                    <option value="BackEnd">Back-end</option>
+                    <option value="CloudComputing">Cloud Computing</option>
+                    <option value="Mobile">Mobile Programing</option>
+                    <option value="MachineLearning">Machine Learning</option>
+                    <option value="DataAnalitic">Data Analitic</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Telepon Trainer</label>
+                <input type="text" @bind="trainer.TrainerPhone" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label>Email Trainer</label>
+                <input type="text" @bind="trainer.TrainerEmail" class="form-control">
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-save"></i> Simpan
+                </button>
+                <a href="/trainer" class="btn btn-secondary">
+                    <i class="bi bi-x-circle"></i> Batal
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@code {
+    private Trainer trainer = new Trainer();
+
+    private async Task HandleSubmit()
+    {
+        await TrainerService.AddTrainerAsync(trainer);
+        Navigation.NavigateTo("/trainer");
+    }
+}

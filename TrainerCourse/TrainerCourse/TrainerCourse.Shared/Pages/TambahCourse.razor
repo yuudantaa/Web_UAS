@@ -1,0 +1,253 @@
+﻿@page "/tambah-course"
+@using TrainerCourse.Shared.Model
+@using TrainerCourse.Shared.Services
+@inject ICourseService CourseService
+@inject ITrainerService TrainerService
+@inject NavigationManager Navigation
+
+<div class="card">
+    <div class="card-header">
+        <h3>Tambah Course Baru</h3>
+    </div>
+
+    <div class="card-body">
+        <form method="post" @onsubmit="HandleSubmit">
+            <div class="form-group">
+                <label>Nama Course</label>
+                <input type="text" @bind="course.CourseName" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label>Deskripsi Course</label>
+                <input type="text" @bind="course.CourseDescription" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>Tipe Course</label>
+                <select class="form-control" @bind="course.CourseType">
+                    <option value="Beginer">Beginer</option>
+                    <option value="Intermediate">Intermediate</option>
+                    <option value="Expert">Expert</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Durasi Course (jam)</label>
+                <input type="number" @bind="course.Duration" class="form-control" required>
+            </div>
+
+            <div class="form-group mb-3">
+                <ImageUpload @bind-ImageFileName="course.ImageFileName"
+                             @bind-ImageUrl="course.ImageUrl" />
+
+                <div class="mt-3">
+                    <CameraComponent @bind-ImageFileName="course.ImageFileName"
+                                     @bind-ImageUrl="course.ImageUrl"
+                                     Title="Or Capture Photo"
+                                     ButtonText="Take Photo with Camera"
+                                     HelpText="Capture photo using device camera (Android only)" />
+                </div>
+            </div>
+
+            <!-- Trainer Selection Section -->
+            <div class="form-group">
+                <label>Pilih Trainer</label>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-outline-primary w-100" data-bs-toggle="modal" data-bs-target="#trainerModal" @onclick="LoadTrainers">
+                    <i class="bi bi-search"></i> Pilih Trainer
+                </button>
+            </div>
+
+            <div class="form-group">
+                <label>ID Trainer</label>
+                <input type="text" @bind="course.TrainerId" class="form-control" readonly>
+            </div>
+
+            <div class="form-group">
+                <label>Nama Trainer</label>
+                <input type="text" @bind="selectedTrainerName" class="form-control" readonly>
+            </div>
+
+            <div class="form-group">
+                <label>Spesialisasi Trainer</label>
+                <input type="text" @bind="selectedTrainerSpecialization" class="form-control" readonly>
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" disabled="@(!IsFormValid)">
+                    <i class="bi bi-save"></i> Simpan
+                </button>
+                <a href="/course" class="btn btn-secondary">
+                    <i class="bi bi-x-circle"></i> Batal
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- Modal untuk memilih trainer -->
+<div class="modal fade" id="trainerModal" tabindex="-1" aria-labelledby="trainerModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="trainerModalLabel">Pilih Trainer</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- Search Box -->
+                <div class="form-group mb-3">
+                    <input type="text" class="form-control" placeholder="Cari trainer..." @bind="searchTerm" @oninput="OnSearchInput" />
+                </div>
+
+                <!-- Loading Indicator -->
+                @if (isLoading)
+                {
+                    <div class="text-center">
+                        <div class="spinner-border" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    <!-- Trainers Table -->
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover">
+                            <thead class="table-dark">
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Nama Trainer</th>
+                                    <th>Spesialisasi</th>
+                                    <th>Aksi</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var trainer in filteredTrainers)
+                                {
+                                    <tr>
+                                        <td>@trainer.TrainerId</td>
+                                        <td>@trainer.TrainerName</td>
+                                        <td>
+                                            <span class="badge bg-primary">@trainer.TrainerSpecialization</span>
+                                        </td>
+                                        <td>
+                                            <button type="button" class="btn btn-success btn-sm"
+                                                    @onclick="() => SelectTrainer(trainer)"
+                                                    data-bs-dismiss="modal">
+                                                <i class="bi bi-check-lg"></i> Pilih
+                                            </button>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+
+                    @if (!filteredTrainers.Any())
+                    {
+                        <div class="alert alert-info text-center">
+                            <i class="bi bi-info-circle"></i> Tidak ada trainer yang ditemukan.
+                        </div>
+                    }
+                }
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Tutup</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private Course course = new Course();
+    private List<Trainer> allTrainers = new List<Trainer>();
+    private List<Trainer> filteredTrainers = new List<Trainer>();
+    private string searchTerm = string.Empty;
+    private bool isLoading = false;
+    private string selectedTrainerName = string.Empty;
+    private string selectedTrainerSpecialization = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadTrainers();
+    }
+
+    private async Task LoadTrainers()
+    {
+        isLoading = true;
+        StateHasChanged();
+
+        try
+        {
+            allTrainers = await TrainerService.GetTrainersAsync();
+            filteredTrainers = allTrainers;
+        }
+        catch (Exception ex)
+        {
+            // Handle error - you might want to show a toast notification
+            Console.WriteLine($"Error loading trainers: {ex.Message}");
+        }
+        finally
+        {
+            isLoading = false;
+            StateHasChanged();
+        }
+    }
+
+    private void OnSearchInput(ChangeEventArgs e)
+    {
+        searchTerm = e.Value?.ToString() ?? string.Empty;
+        FilterTrainers();
+    }
+
+    private void FilterTrainers()
+    {
+        if (string.IsNullOrWhiteSpace(searchTerm))
+        {
+            filteredTrainers = allTrainers;
+        }
+        else
+        {
+            var term = searchTerm.ToLower();
+            filteredTrainers = allTrainers.Where(t =>
+                t.TrainerName.ToLower().Contains(term) ||
+                t.TrainerSpecialization.ToLower().Contains(term) ||
+                t.TrainerId.ToString().Contains(term)
+            ).ToList();
+        }
+        StateHasChanged();
+    }
+
+    private void SelectTrainer(Trainer trainer)
+    {
+        course.TrainerId = trainer.TrainerId;
+        selectedTrainerName = trainer.TrainerName;
+        selectedTrainerSpecialization = trainer.TrainerSpecialization;
+
+        StateHasChanged();
+    }
+
+    private bool IsFormValid =>
+        !string.IsNullOrWhiteSpace(course.CourseName) &&
+        !string.IsNullOrWhiteSpace(course.CourseDescription) &&
+        !string.IsNullOrWhiteSpace(course.CourseType) &&
+        course.Duration > 0 &&
+        course.TrainerId > 0;
+
+    private async Task HandleSubmit()
+    {
+        if (!IsFormValid)
+        {
+            return;
+        }
+
+        try
+        {
+            await CourseService.AddCourseAsync(course);
+            Navigation.NavigateTo("/course");
+        }
+        catch (Exception ex)
+        {
+            // Handle error - you might want to show a toast notification
+            Console.WriteLine($"Error adding course: {ex.Message}");
+        }
+    }
+}

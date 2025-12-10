@@ -1,0 +1,423 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "TrainerCourse.Backend",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Courses": {
+      "get": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CourseAddDTO"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Course"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Courses/{id}": {
+      "get": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Courses/upload": {
+      "post": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "file"
+                ],
+                "type": "object",
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "file": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Courses/search/{searchTerm}": {
+      "get": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "parameters": [
+          {
+            "name": "searchTerm",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Trainers": {
+      "get": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TrainerAddDTO"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Trainer"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Trainer"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Trainers/{id}": {
+      "get": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Trainers/search/{searchTerm}": {
+      "get": {
+        "tags": [
+          "TrainerCourse.Backend"
+        ],
+        "parameters": [
+          {
+            "name": "searchTerm",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Course": {
+        "type": "object",
+        "properties": {
+          "courseId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "courseName": {
+            "type": "string",
+            "nullable": true
+          },
+          "courseDescription": {
+            "type": "string",
+            "nullable": true
+          },
+          "courseType": {
+            "type": "string",
+            "nullable": true
+          },
+          "duration": {
+            "type": "number",
+            "format": "double"
+          },
+          "trainerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "createdate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "trainer": {
+            "$ref": "#/components/schemas/Trainer"
+          },
+          "imageFileName": {
+            "type": "string",
+            "nullable": true
+          },
+          "imageUrl": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CourseAddDTO": {
+        "type": "object",
+        "properties": {
+          "courseName": {
+            "type": "string",
+            "nullable": true
+          },
+          "courseDescription": {
+            "type": "string",
+            "nullable": true
+          },
+          "courseType": {
+            "type": "string",
+            "nullable": true
+          },
+          "duration": {
+            "type": "number",
+            "format": "double"
+          },
+          "trainerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "imageFileName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Trainer": {
+        "type": "object",
+        "properties": {
+          "trainerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "trainerName": {
+            "type": "string",
+            "nullable": true
+          },
+          "trainerEmail": {
+            "type": "string",
+            "nullable": true
+          },
+          "trainerAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "trainerPhone": {
+            "type": "string",
+            "nullable": true
+          },
+          "trainerSpecialization": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TrainerAddDTO": {
+        "type": "object",
+        "properties": {
+          "trainerName": {
+            "type": "string",
+            "nullable": true
+          },
+          "trainerEmail": {
+            "type": "string",
+            "nullable": true
+          },
+          "trainerAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "trainerPhone": {
+            "type": "string",
+            "nullable": true
+          },
+          "trainerSpecialization": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

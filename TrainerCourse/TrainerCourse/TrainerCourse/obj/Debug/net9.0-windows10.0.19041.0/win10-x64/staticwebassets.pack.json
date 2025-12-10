@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\TrainerCourse.styles.css",
+      "PackagePath": "staticwebassets\\TrainerCourse.styles.css"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\Image\\Screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\Screenshot.png"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\Image\\backend.png",
+      "PackagePath": "staticwebassets\\Image\\backend.png"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\Image\\iniGambar.jpg",
+      "PackagePath": "staticwebassets\\Image\\iniGambar.jpg"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\Image\\online-course.jpg",
+      "PackagePath": "staticwebassets\\Image\\online-course.jpg"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.TrainerCourse.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.TrainerCourse.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.TrainerCourse.props",
+      "PackagePath": "build\\TrainerCourse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.TrainerCourse.props",
+      "PackagePath": "buildMultiTargeting\\TrainerCourse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.TrainerCourse.props",
+      "PackagePath": "buildTransitive\\TrainerCourse.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,244 @@
+﻿@page "/course"
+@using TrainerCourse.Shared.Model
+@using TrainerCourse.Shared.Services
+@inject ICourseService CourseService
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JSRuntime
+
+<div class="card">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <h4>Daftar Course</h4>
+        <a href="/tambah-course" class="btn btn-primary">
+            <i class="bi bi-plus-square"></i> Tambah Course
+        </a>
+    </div>
+    <div class="card-body">
+        <!-- Search Bar -->
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <div class="input-group">
+                    <span class="input-group-text">
+                        <i class="bi bi-search"></i>
+                    </span>
+                    <input type="text" class="form-control" placeholder="Cari course berdasarkan nama, deskripsi, tipe, atau trainer..."
+                           @bind="searchTerm" @bind:event="oninput" />
+                    @if (!string.IsNullOrEmpty(searchTerm))
+                    {
+                        <button class="btn btn-outline-secondary" type="button" @onclick="ClearSearch">
+                            <i class="bi bi-x-circle"></i> Clear
+                        </button>
+                    }
+                </div>
+                <div class="form-text">
+                    Ketik untuk mencari course secara real-time...
+                </div>
+            </div>
+            <div class="col-md-6 text-end">
+                <span class="badge bg-info fs-6">@courses.Count course ditemukan</span>
+            </div>
+        </div>
+
+        @if (isLoading)
+        {
+            <div class="text-center">
+                <div class="spinner-border text-primary" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+                <p class="mt-2">Mencari course...</p>
+            </div>
+        }
+        else if (!courses.Any())
+        {
+            <div class="alert alert-warning text-center">
+                <i class="bi bi-search display-4 d-block mb-3"></i>
+                <h5>@(string.IsNullOrEmpty(searchTerm) ? "Belum ada course" : "Course tidak ditemukan")</h5>
+                <p class="mb-0">
+                    @if (string.IsNullOrEmpty(searchTerm))
+                    {
+                        <span>Silakan tambahkan course pertama Anda.</span>
+                    }
+                    else
+                    {
+                        <span>Tidak ada course yang cocok dengan "<strong>@searchTerm</strong>"</span>
+                    }
+                </p>
+            </div>
+        }
+        else
+        {
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                @foreach (var course in courses)
+                {
+                    <div class="col">
+                        <div class="card h-100 shadow-sm course-card">
+                            @if (!string.IsNullOrEmpty(course.ImageUrl))
+                            {
+                                <img src="@course.ImageUrl" class="card-img-top" alt="@course.CourseName" style="height: 200px; object-fit: cover;">
+                            }
+                            else
+                            {
+                                <div class="card-img-top bg-light d-flex align-items-center justify-content-center" style="height: 200px;">
+                                    <i class="bi bi-image text-muted" style="font-size: 3rem;"></i>
+                                </div>
+                            }
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between align-items-start mb-2">
+                                    <span class="badge bg-primary">@course.CourseType</span>
+                                 </div>
+
+                                <a href="@($"detail-course/{course.CourseId}")" class="card-title text-primary text-decoration-none">
+                                    <h5>@HighlightSearchTerm(course.CourseName)</h5>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-transparent">
+                                <div class="btn-group w-100" role="group">
+                                    <button class="btn btn-outline-primary btn-sm" @onclick="() => EditCourse(course.CourseId)"
+                                            title="Edit course">
+                                        <i class="bi bi-pencil"></i> Edit
+                                    </button>
+                                    <button class="btn btn-outline-danger btn-sm" @onclick="() => DeleteCourse(course.CourseId)"
+                                            title="Hapus course">
+                                        <i class="bi bi-trash"></i> Hapus
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private List<Course> courses = new();
+    private string searchTerm = string.Empty;
+    private Timer? searchTimer;
+    private bool isLoading = false;
+    private CancellationTokenSource? cancellationTokenSource;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCourses();
+    }
+
+    private async Task LoadCourses()
+    {
+        try
+        {
+            isLoading = true;
+            StateHasChanged();
+
+            // Cancel previous request if any
+            cancellationTokenSource?.Cancel();
+            cancellationTokenSource = new CancellationTokenSource();
+
+            if (string.IsNullOrWhiteSpace(searchTerm))
+            {
+                courses = await CourseService.GetCourseAsync();
+            }
+            else
+            {
+                courses = await CourseService.SearchCoursesAsync(searchTerm);
+            }
+        }
+        catch (OperationCanceledException)
+        {
+            // Request was cancelled, ignore
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading courses: {ex.Message}");
+        }
+        finally
+        {
+            isLoading = false;
+            StateHasChanged();
+        }
+    }
+
+    private async Task OnSearchInput(ChangeEventArgs e)
+    {
+        searchTerm = e.Value?.ToString() ?? string.Empty;
+
+        // Debounce search - wait 300ms after user stops typing
+        searchTimer?.Dispose();
+        searchTimer = new Timer(async _ =>
+        {
+            await InvokeAsync(async () =>
+            {
+                await LoadCourses();
+            });
+        }, null, 300, Timeout.Infinite);
+    }
+
+    private async Task ClearSearch()
+    {
+        searchTerm = string.Empty;
+        await LoadCourses();
+    }
+
+    private MarkupString HighlightSearchTerm(string text)
+    {
+        if (string.IsNullOrEmpty(searchTerm) || string.IsNullOrEmpty(text))
+            return (MarkupString)System.Net.WebUtility.HtmlEncode(text);
+
+        var lowerText = text.ToLower();
+        var lowerSearchTerm = searchTerm.ToLower();
+        var highlightedText = System.Net.WebUtility.HtmlEncode(text);
+
+        if (lowerText.Contains(lowerSearchTerm))
+        {
+            var startIndex = lowerText.IndexOf(lowerSearchTerm);
+            var originalMatch = text.Substring(startIndex, searchTerm.Length);
+            var highlightedMatch = $"<mark>{System.Net.WebUtility.HtmlEncode(originalMatch)}</mark>";
+
+            highlightedText = System.Net.WebUtility.HtmlEncode(text.Substring(0, startIndex)) +
+                            highlightedMatch +
+                            System.Net.WebUtility.HtmlEncode(text.Substring(startIndex + searchTerm.Length));
+        }
+
+        return (MarkupString)highlightedText;
+    }
+
+    private void EditCourse(int courseId)
+    {
+        NavigationManager.NavigateTo($"/edit-course/{courseId}");
+    }
+
+    private async Task DeleteCourse(int courseId)
+    {
+        var courseName = courses.FirstOrDefault(c => c.CourseId == courseId)?.CourseName ?? "this course";
+        var confirmed = await JSRuntime.InvokeAsync<bool>("confirm", $"Are you sure you want to delete '{courseName}'?");
+
+        if (confirmed)
+        {
+            try
+            {
+                await CourseService.DeleteCourseAsync(courseId);
+                // Show success message
+                await JSRuntime.InvokeVoidAsync("alert", "Course deleted successfully!");
+                await LoadCourses(); // Refresh the list
+            }
+            catch (HttpRequestException ex) when (ex.Message.Contains("404"))
+            {
+                await JSRuntime.InvokeVoidAsync("alert", "Course not found!");
+            }
+            catch (HttpRequestException ex) when (ex.Message.Contains("data terkait"))
+            {
+                await JSRuntime.InvokeVoidAsync("alert", "Cannot delete course because it has related data!");
+            }
+            catch (Exception ex)
+            {
+                await JSRuntime.InvokeVoidAsync("alert", $"Error deleting course: {ex.Message}");
+            }
+        }
+    }
+
+    public void Dispose()
+    {
+        searchTimer?.Dispose();
+        cancellationTokenSource?.Cancel();
+        cancellationTokenSource?.Dispose();
+    }
+}

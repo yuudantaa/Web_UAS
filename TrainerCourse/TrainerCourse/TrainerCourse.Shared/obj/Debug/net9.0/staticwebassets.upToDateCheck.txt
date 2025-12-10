@@ -1,0 +1,11 @@
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\Image\backend.png
+wwwroot\Image\iniGambar.jpg
+wwwroot\Image\online-course.jpg
+wwwroot\Image\Screenshot.png
+D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\app.css
+D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\bootstrap\bootstrap.min.css
+D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\bootstrap\bootstrap.min.css.map

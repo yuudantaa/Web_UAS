@@ -1,0 +1,56 @@
+﻿@page "/"
+@using TrainerCourse.Shared.Services
+@inject IFormFactor FormFactor
+
+<!-- Carousel dan Informasi -->
+<div id="carouselExampleAutoplaying" class="carousel slide mt-4" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="image/online-course.jpg" class="d-block w-100" alt="rekamMedis" style="height: 300px; object-fit: cover;">
+        </div>
+        <div class="carousel-item active">
+            <img src="image/backend.png" class="d-block w-100" alt="rekamMedis" style="height: 300px; object-fit: cover;">
+        </div>
+        <div class="carousel-item active">
+            <img src="image/Screenshot.png" class="d-block w-100" alt="rekamMedis" style="height: 300px; object-fit: cover;">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card bg-light">
+            <div class="card-body text-center">
+                <h2 class="mb-1"><strong>Selamat Datang di IniCourse</strong></h2>
+                <h3 class="mb-0 text-muted">Upscale Your Tech Skill</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card mb-12" style="max-width: auto;">
+    <div class="row no-gutters">
+        <div class="col-md-3" style="max-width: 10; height: 220px;">
+            <img src="image/iniGambar.jpg" class="d-block w-100" alt="rekamMedis" style="height: 220px; object-fit: cover;">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h3 class="text-left mb-4" style="font-weight: bold;">Apa itu IniCourse</h3>
+                <p class="card-text">IniCourse adalah course kekinian untuk meningkatkan keahlian terutama dibidang IT.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private string factor => FormFactor.GetFormFactor();
+    private string platform => FormFactor.GetPlatform();
+}

@@ -1,0 +1,32 @@
+﻿<div class="top-row ps-3 navbar navbar-dark bg-primary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">IniCourse</a>
+    </div>
+</div>
+
+<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
+
+<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link d-flex align-items-center" href="" Match="NavLinkMatch.All">
+                <i class="bi bi-house-fill fs-5 me-2"></i>
+                <span>Home</span>
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link d-flex align-items-center" href="course">
+                <i class="bi bi-pc-display fs-5 me-2"></i>
+                <span>Course</span>
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link d-flex align-items-center" href="trainer">
+                <i class="bi bi-person-square fs-5 me-2"></i>
+                <span>Trainer</span>
+            </NavLink>
+        </div>
+    </nav>
+</div>

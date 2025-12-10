@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TrainerCourse.Shared.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TrainerCourse.Shared.vetenq2wmp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\Image\\Screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\Screenshot.png"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\Image\\backend.png",
+      "PackagePath": "staticwebassets\\Image\\backend.png"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\Image\\iniGambar.jpg",
+      "PackagePath": "staticwebassets\\Image\\iniGambar.jpg"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\Image\\online-course.jpg",
+      "PackagePath": "staticwebassets\\Image\\online-course.jpg"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TrainerCourse.Shared.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TrainerCourse.Shared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TrainerCourse.Shared.props",
+      "PackagePath": "build\\TrainerCourse.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TrainerCourse.Shared.props",
+      "PackagePath": "buildMultiTargeting\\TrainerCourse.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TrainerCourse.Shared.props",
+      "PackagePath": "buildTransitive\\TrainerCourse.Shared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

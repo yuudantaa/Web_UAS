@@ -1,0 +1,8 @@
+wwwroot\Image\backend.png
+wwwroot\Image\iniGambar.jpg
+wwwroot\Image\online-course.jpg
+wwwroot\Image\Screenshot.png
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Web.Client\wwwroot\appsettings.Development.json
+D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Web.Client\wwwroot\appsettings.json
