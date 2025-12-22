@@ -1,8 +1,12 @@
 wwwroot\app.css
-wwwroot\index.html
+wwwroot\Image\backend.png
 wwwroot\Image\iniGambar.jpg
 wwwroot\Image\online-course.jpg
-wwwroot\Image\backend.png
 wwwroot\Image\Screenshot.png
-D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\app.css
-D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\index.html
+wwwroot\index.html
+wwwroot\js\camera.js
+wwwroot\js\geolocation.js
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\js\camera.js
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\index.html
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\app.css
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\js\geolocation.js

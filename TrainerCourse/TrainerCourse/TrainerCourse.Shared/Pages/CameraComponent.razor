@@ -1,5 +1,9 @@
-﻿@using TrainerCourse.Shared.Services
+﻿@using System.Runtime.InteropServices.JavaScript
+@using TrainerCourse.Shared.Method
+@using TrainerCourse.Shared.Services
+@using Microsoft.JSInterop
 @inject ICameraService CameraService
+@inject ICourseService CourseService
 @inject IJSRuntime JSRuntime
 
 <div class="camera-component">
@@ -48,6 +52,7 @@
 </div>
 
 @code {
+
     [Parameter]
     public string Title { get; set; } = "Camera Capture";
 
@@ -71,6 +76,7 @@
 
     private bool IsCapturing { get; set; }
     private string Message { get; set; } = string.Empty;
+    private IJSObjectReference? cameraModule;
 
     private async Task CapturePhoto()
     {
@@ -80,22 +86,86 @@
 
         try
         {
-            var result = await CameraService.TakePhotoAsync();
-
-            if (result.Success)
+            // Check if we're in a web environment with JavaScript support
+            if (JSRuntime != null)
             {
-                ImageFileName = result.FileName;
-                ImageUrl = result.ImageUrl;
+                // Import the camera module if not already imported
+                if (cameraModule == null)
+                {
+                    cameraModule = await JSRuntime.InvokeAsync<IJSObjectReference>("import", "./js/camera.js");
+                }
 
-                await ImageFileNameChanged.InvokeAsync(ImageFileName);
-                await ImageUrlChanged.InvokeAsync(ImageUrl);
+                // Start the camera
+                var isStarted = await cameraModule.InvokeAsync<bool>("startCamera");
 
-                Message = result.Message ?? "Photo captured successfully!";
+                if (!isStarted)
+                {
+                    Message = "Failed to start camera. Please check permissions.";
+                    return;
+                }
+
+                // Wait a moment for camera to initialize
+                await Task.Delay(300);
+
+                // Capture photo as Base64 data URL
+                var imageDataUrl = await cameraModule.InvokeAsync<string>("capturePhoto");
+
+                if (string.IsNullOrEmpty(imageDataUrl))
+                {
+                    Message = "Failed to capture photo. Please try again.";
+                    return;
+                }
+
+                // Stop the camera after capture
+                await cameraModule.InvokeVoidAsync("stopCamera");
+
+                // Upload directly to backend API
+                var uploadResult = await CourseService.UploadCameraImageAsync(imageDataUrl, $"camera_{DateTime.Now:yyyyMMdd_HHmmss}.jpg");
+
+                if (uploadResult.Success && !string.IsNullOrEmpty(uploadResult.FileName))
+                {
+                    ImageFileName = uploadResult.FileName;
+                    ImageUrl = uploadResult.ImageUrl;
+
+                    // Invoke callbacks to update parent component
+                    await ImageFileNameChanged.InvokeAsync(ImageFileName);
+                    await ImageUrlChanged.InvokeAsync(ImageUrl);
+
+                    Message = "Photo captured and uploaded successfully!";
+                }
+                else
+                {
+                    Message = uploadResult.Message ?? "Failed to upload photo to server.";
+                }
             }
             else
             {
-                Message = result.Message ?? "Failed to capture photo";
+                // Fallback for non-web environments (MAUI native)
+                var result = await CameraService.TakePhotoAsync();
+
+                if (result.Success)
+                {
+                    ImageFileName = result.FileName;
+                    ImageUrl = result.ImageUrl;
+
+                    await ImageFileNameChanged.InvokeAsync(ImageFileName);
+                    await ImageUrlChanged.InvokeAsync(ImageUrl);
+
+                    Message = result.Message ?? "Photo captured successfully!";
+                }
+                else
+                {
+                    Message = result.Message ?? "Failed to capture photo";
+                }
             }
+        }
+        catch (Microsoft.JSInterop.JSException jsEx)
+        {
+            Message = $"JavaScript error: {jsEx.Message}. Make sure camera.js is in wwwroot/js/ folder.";
+        }
+        catch (HttpRequestException httpEx)
+        {
+            Message = $"Network error: {httpEx.Message}. Check backend connection.";
         }
         catch (Exception ex)
         {
@@ -105,6 +175,14 @@
         {
             IsCapturing = false;
             StateHasChanged();
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            cameraModule = await JSRuntime.InvokeAsync<IJSObjectReference>("import", "./js/camera.js");
         }
     }
 

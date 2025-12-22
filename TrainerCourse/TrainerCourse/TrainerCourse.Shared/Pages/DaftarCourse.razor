@@ -1,9 +1,11 @@
 ﻿@page "/course"
+@using Microsoft.Extensions.Configuration
 @using TrainerCourse.Shared.Model
 @using TrainerCourse.Shared.Services
 @inject ICourseService CourseService
 @inject NavigationManager NavigationManager
 @inject IJSRuntime JSRuntime
+@inject IConfiguration Configuration
 
 <div class="card">
     <div class="card-header d-flex justify-content-between align-items-center">
@@ -20,7 +22,7 @@
                     <span class="input-group-text">
                         <i class="bi bi-search"></i>
                     </span>
-                    <input type="text" class="form-control" placeholder="Cari course berdasarkan nama, deskripsi, tipe, atau trainer..."
+                    <input type="text" class="form-control" placeholder="Cari course..."
                            @bind="searchTerm" @bind:event="oninput" />
                     @if (!string.IsNullOrEmpty(searchTerm))
                     {
@@ -71,9 +73,13 @@
                 {
                     <div class="col">
                         <div class="card h-100 shadow-sm course-card">
-                            @if (!string.IsNullOrEmpty(course.ImageUrl))
+                            @if (!string.IsNullOrEmpty(GetImageSrc(course)))
                             {
-                                <img src="@course.ImageUrl" class="card-img-top" alt="@course.CourseName" style="height: 200px; object-fit: cover;">
+                                <img src="@GetImageSrc(course)"
+                                     class="card-img-top"
+                                     alt="@course.CourseName"
+                                     style="height: 200px; object-fit: cover; width:100%;"
+                                     onerror="this.onerror=null;this.src='https://via.placeholder.com/300x200?text=No+Image';" />
                             }
                             else
                             {
@@ -84,11 +90,24 @@
                             <div class="card-body">
                                 <div class="d-flex justify-content-between align-items-start mb-2">
                                     <span class="badge bg-primary">@course.CourseType</span>
-                                 </div>
+                                </div>
 
                                 <a href="@($"detail-course/{course.CourseId}")" class="card-title text-primary text-decoration-none">
                                     <h5>@HighlightSearchTerm(course.CourseName)</h5>
                                 </a>
+
+                                <!-- Debug: Tampilkan URL gambar -->
+                                <small class="text-muted d-block mt-2">
+                                    <i class="bi bi-link-45deg"></i>
+                                    @if (!string.IsNullOrEmpty(course.ImageUrl))
+                                    {
+                                        @course.ImageUrl
+                                    }
+                                    else
+                                    {
+                                        <span>No image URL</span>
+                                    }
+                                </small>
                             </div>
                             <div class="card-footer bg-transparent">
                                 <div class="btn-group w-100" role="group">
@@ -116,6 +135,44 @@
     private Timer? searchTimer;
     private bool isLoading = false;
     private CancellationTokenSource? cancellationTokenSource;
+
+    // Read API base from config (set ApiBaseUrl in client settings) or fallback to this dev URL
+    private string ApiBase => Configuration["ApiBaseUrl"] ?? "https://localhost:7285";
+
+    private string GetImageSrc(Course course)
+    {
+        if (string.IsNullOrWhiteSpace(course?.ImageUrl) && string.IsNullOrWhiteSpace(course?.ImageFileName))
+            return string.Empty;
+
+        // If backend already returns a full absolute URL use it
+        if (!string.IsNullOrWhiteSpace(course.ImageUrl))
+        {
+            // If it already contains scheme, return as-is
+            if (course.ImageUrl.StartsWith("http://", StringComparison.OrdinalIgnoreCase) ||
+                course.ImageUrl.StartsWith("https://", StringComparison.OrdinalIgnoreCase))
+            {
+                return course.ImageUrl;
+            }
+
+            // If it is a root-relative path like "/uploads/..." prefix the API base
+            if (course.ImageUrl.StartsWith("/"))
+            {
+                return $"{ApiBase}{course.ImageUrl}";
+            }
+
+            // Otherwise treat it as a filename
+            return $"{ApiBase}/uploads/{course.ImageUrl}";
+        }
+
+        // If ImageFileName is provided, build URL
+        if (!string.IsNullOrWhiteSpace(course.ImageFileName))
+        {
+            // ImageFileName usually is just the filename stored in wwwroot/uploads
+            return $"{ApiBase}/uploads/{course.ImageFileName}";
+        }
+
+        return string.Empty;
+    }
 
     protected override async Task OnInitializedAsync()
     {

@@ -36,6 +36,14 @@
             <div class="form-group mb-3">
                 <ImageUpload @bind-ImageFileName="course.ImageFileName"
                              @bind-ImageUrl="course.ImageUrl" />
+                <!-- Tambahkan CameraComponent di sini -->
+                <div class="mt-3">
+                    <CameraComponent @bind-ImageFileName="course.ImageFileName"
+                                     @bind-ImageUrl="course.ImageUrl"
+                                     Title="Or Capture Photo"
+                                     ButtonText="Take Photo with Camera"
+                                     HelpText="Capture photo using device camera (Android only)" />
+                </div>
             </div>
 
             <!-- Trainer Selection Section -->

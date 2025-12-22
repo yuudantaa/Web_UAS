@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = TrainerCourse.Shared
 build_property.RootNamespace = TrainerCourse.Shared
-build_property.ProjectDir = D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Shared\
+build_property.ProjectDir = D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Shared
+build_property.MSBuildProjectDirectory = D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/CameraComponent.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/CameraComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtZXJhQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/Component.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/Component.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/DaftarCourse.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/DaftarCourse.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFmdGFyQ291cnNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/DaftarTrainer.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/DaftarTrainer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFmdGFyVHJhaW5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/DetailCourse.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/DetailCourse.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsQ291cnNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/DetailTrainer.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/DetailTrainer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsVHJhaW5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/EditCourse.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/EditCourse.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdENvdXJzZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/EditTrainer.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/EditTrainer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFRyYWluZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/Home.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/ImageUpload.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/ImageUpload.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1hZ2VVcGxvYWQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/TambahCourse.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/TambahCourse.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFtYmFoQ291cnNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/TambahTrainer.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/TambahTrainer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFtYmFoVHJhaW5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Routes.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Um91dGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/_Imports.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Layout/MainLayout.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6ycamkr5un
 
-[D:/materi kuliah/MobileMauiApp/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Layout/NavMenu.razor]
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5ri6ygpu3w

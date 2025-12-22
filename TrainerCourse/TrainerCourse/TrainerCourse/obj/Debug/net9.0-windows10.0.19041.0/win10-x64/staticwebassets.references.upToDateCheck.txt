@@ -49,3 +49,14 @@ D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Shared\
 D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
 D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
 D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\obj\Debug\net9.0\staticwebassets.build.json

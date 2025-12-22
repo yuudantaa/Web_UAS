@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/GtG7lA/jYk=",
+  "dgSpecHash": "iVSeSWVC6M0=",
   "success": true,
-  "projectFilePath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
+  "projectFilePath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

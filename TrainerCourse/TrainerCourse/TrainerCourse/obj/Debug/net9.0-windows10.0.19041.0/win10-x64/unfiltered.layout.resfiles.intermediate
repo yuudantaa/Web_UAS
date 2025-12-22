@@ -1,7 +1,11 @@
 wwwroot\_content\TrainerCourse.Shared\bootstrap\bootstrap.min.css.map.gz
+wwwroot\_content\TrainerCourse.Shared\js\geolocation.js.gz
+wwwroot\_content\TrainerCourse.Shared\js\camera.js.gz
 wwwroot\_content\TrainerCourse.Shared\TrainerCourse.Shared.vetenq2wmp.bundle.scp.css.gz
 wwwroot\_content\TrainerCourse.Shared\app.css.gz
 wwwroot\_content\TrainerCourse.Shared\bootstrap\bootstrap.min.css.map.br
+wwwroot\_content\TrainerCourse.Shared\js\geolocation.js.br
+wwwroot\_content\TrainerCourse.Shared\js\camera.js.br
 wwwroot\_content\TrainerCourse.Shared\TrainerCourse.Shared.vetenq2wmp.bundle.scp.css.br
 wwwroot\_content\TrainerCourse.Shared\app.css.br
 wwwroot\_content\TrainerCourse.Shared\bootstrap\bootstrap.min.css.br
@@ -15,11 +19,17 @@ wwwroot\_content\TrainerCourse.Shared\Image\backend.png
 wwwroot\_content\TrainerCourse.Shared\Image\iniGambar.jpg
 wwwroot\_content\TrainerCourse.Shared\Image\online-course.jpg
 wwwroot\_content\TrainerCourse.Shared\Image\Screenshot.png
+wwwroot\_content\TrainerCourse.Shared\js\camera.js
+wwwroot\_content\TrainerCourse.Shared\js\geolocation.js
 wwwroot\app.css.gz
+wwwroot\js\camera.js.gz
 wwwroot\TrainerCourse.styles.css.gz
 wwwroot\app.css.br
+wwwroot\js\camera.js.br
 wwwroot\TrainerCourse.styles.css.br
+wwwroot\js\geolocation.js.br
 wwwroot\index.html.br
+wwwroot\js\geolocation.js.gz
 wwwroot\index.html.gz
 OpenSans-Regular.ttf
 appicon.ico
@@ -86,3 +96,5 @@ wwwroot\Image\iniGambar.jpg
 wwwroot\Image\online-course.jpg
 wwwroot\Image\Screenshot.png
 wwwroot\index.html
+wwwroot\js\camera.js
+wwwroot\js\geolocation.js

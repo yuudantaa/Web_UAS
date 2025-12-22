@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj": {}
+    "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj": {}
   },
   "projects": {
-    "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj": {
+    "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
+        "projectUniqueName": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
         "projectName": "TrainerCourse.Shared",
-        "projectPath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
+        "projectPath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\obj\\",
+        "outputPath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj": {
+    "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
+        "projectUniqueName": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
         "projectName": "TrainerCourse.Web.Client",
-        "projectPath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
+        "projectPath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\obj\\",
+        "outputPath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj": {
-                "projectPath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj"
+              "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj": {
+                "projectPath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj"
               }
             }
           }

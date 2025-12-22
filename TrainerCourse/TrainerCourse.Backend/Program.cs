@@ -35,11 +35,8 @@ app.UseStaticFiles();
 app.UseStaticFiles(new StaticFileOptions
 {
     FileProvider = new PhysicalFileProvider(
-        Path.Combine(Directory.GetCurrentDirectory(), "uploads")),
-    RequestPath = "/uploads",
-    // Tambahkan ini untuk support lebih banyak MIME types
-    ServeUnknownFileTypes = true,
-    DefaultContentType = "application/octet-stream"
+        Path.Combine(Directory.GetCurrentDirectory(), "Uploads")), // <-- Ensure this path is correct
+    RequestPath = "/uploads"
 });
 
 app.UseAuthorization();

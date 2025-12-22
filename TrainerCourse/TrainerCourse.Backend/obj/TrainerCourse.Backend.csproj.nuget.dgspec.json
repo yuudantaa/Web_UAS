@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj": {}
+    "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj": {}
   },
   "projects": {
-    "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj": {
+    "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
+        "projectUniqueName": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
         "projectName": "TrainerCourse.Backend",
-        "projectPath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
+        "projectPath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\obj\\",
+        "outputPath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

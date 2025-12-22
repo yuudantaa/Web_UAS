@@ -29,6 +29,7 @@ namespace TrainerCourse
                 client.BaseAddress = new Uri("https://localhost:7285/");
             });
 
+
             builder.Services.AddMauiBlazorWebView();
 
 #if DEBUG

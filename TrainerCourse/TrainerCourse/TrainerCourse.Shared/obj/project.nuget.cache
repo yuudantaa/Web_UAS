@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W82DjivHq2A=",
+  "dgSpecHash": "iDF/jNCZxuw=",
   "success": true,
-  "projectFilePath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
+  "projectFilePath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.5\\microsoft.aspnetcore.authorization.9.0.5.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.5\\microsoft.aspnetcore.components.9.0.5.nupkg.sha512",

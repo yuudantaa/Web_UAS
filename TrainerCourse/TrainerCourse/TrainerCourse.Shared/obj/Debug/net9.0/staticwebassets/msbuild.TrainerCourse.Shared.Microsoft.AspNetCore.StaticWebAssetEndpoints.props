@@ -96,6 +96,30 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iuIA3PSyIaLrvo8gKSlb1VFbirp6\u002BlMAUBhfWjDIG08="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"707764"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022iuIA3PSyIaLrvo8gKSlb1VFbirp6\u002BlMAUBhfWjDIG08=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 14:01:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TrainerCourse.Shared/js/camera.ai0iu8n1ob.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\camera.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ai0iu8n1ob"},{"Name":"integrity","Value":"sha256-7n7QyP2lfxmSOgE5oYNRmuM9j6DC6cmg\u002B3IUOTpDUXA="},{"Name":"label","Value":"_content/TrainerCourse.Shared/js/camera.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3673"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00227n7QyP2lfxmSOgE5oYNRmuM9j6DC6cmg\u002B3IUOTpDUXA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Dec 2025 11:13:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TrainerCourse.Shared/js/camera.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\camera.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7n7QyP2lfxmSOgE5oYNRmuM9j6DC6cmg\u002B3IUOTpDUXA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3673"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00227n7QyP2lfxmSOgE5oYNRmuM9j6DC6cmg\u002B3IUOTpDUXA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Dec 2025 11:13:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TrainerCourse.Shared/js/geolocation.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\geolocation.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/3mRF5ZyNaFre0GIDeZbzSUWZz42Jx14ztQdZOf1Wes="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3709"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/3mRF5ZyNaFre0GIDeZbzSUWZz42Jx14ztQdZOf1Wes=\u0022"},{"Name":"Last-Modified","Value":"Sun, 21 Dec 2025 13:54:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TrainerCourse.Shared/js/geolocation.vkljuqgsyv.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\geolocation.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vkljuqgsyv"},{"Name":"integrity","Value":"sha256-/3mRF5ZyNaFre0GIDeZbzSUWZz42Jx14ztQdZOf1Wes="},{"Name":"label","Value":"_content/TrainerCourse.Shared/js/geolocation.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3709"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/3mRF5ZyNaFre0GIDeZbzSUWZz42Jx14ztQdZOf1Wes=\u0022"},{"Name":"Last-Modified","Value":"Sun, 21 Dec 2025 13:54:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TrainerCourse.Shared/TrainerCourse.Shared.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TrainerCourse.Shared.vetenq2wmp.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

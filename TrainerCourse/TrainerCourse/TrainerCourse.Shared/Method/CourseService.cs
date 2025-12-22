@@ -161,7 +161,7 @@ namespace TrainerCourse.Shared.Method
 
                 if (response.IsSuccessStatusCode)
                 {
-                    var result = await response.Content.ReadFromJsonAsync<UploadResult>();
+                    var result = await response.Content.ReadFromJsonAsync<ImageUploadResponse>();
                     return new ImageUploadResponse
                     {
                         Success = true,
@@ -189,9 +189,125 @@ namespace TrainerCourse.Shared.Method
             }
         }
 
-        public async Task<string> GetImageUrlAsync(string fileName)
+        public async Task<string> GetImageUrl(string fileName)
         {
             return await Task.FromResult($"https://localhost:7285/uploads/{fileName}");
+        }
+
+        public async Task<ImageUploadResponse> UploadCameraImageAsync(string imageDataUrl, string fileName = "camera_capture.jpg")
+        {
+            try
+            {
+                // Validate the data URL format
+                if (string.IsNullOrEmpty(imageDataUrl) || !imageDataUrl.StartsWith("data:image/"))
+                {
+                    return new ImageUploadResponse
+                    {
+                        Success = false,
+                        Message = "Invalid image data format"
+                    };
+                }
+
+                // 1. Extract Base64 data from data URL
+                string base64Data;
+                if (imageDataUrl.Contains(','))
+                {
+                    base64Data = imageDataUrl.Split(',')[1];
+                }
+                else
+                {
+                    base64Data = imageDataUrl;
+                }
+
+                // 2. Convert Base64 to byte array
+                var imageBytes = Convert.FromBase64String(base64Data);
+
+                // 3. Validate file size (5MB max)
+                if (imageBytes.Length > 5 * 1024 * 1024)
+                {
+                    return new ImageUploadResponse
+                    {
+                        Success = false,
+                        Message = "Image size too large. Maximum size is 5MB."
+                    };
+                }
+
+                // 4. Create multipart form data
+                using var content = new MultipartFormDataContent();
+                using var byteArrayContent = new ByteArrayContent(imageBytes);
+
+                // Set content type - try to detect from data URL or default to jpeg
+                string contentType = "image/jpeg";
+                if (imageDataUrl.StartsWith("data:image/png"))
+                    contentType = "image/png";
+                else if (imageDataUrl.StartsWith("data:image/jpeg"))
+                    contentType = "image/jpeg";
+
+                byteArrayContent.Headers.ContentType = new MediaTypeHeaderValue(contentType);
+                content.Add(byteArrayContent, "file", fileName);
+
+                // 5. Send request to upload endpoint
+                var response = await _httpClient.PostAsync($"{BaseUrl}/upload", content);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    var result = await response.Content.ReadFromJsonAsync<ImageUploadResponse>();
+
+                    // Ensure success flag is properly set
+                    if (result != null)
+                    {
+                        result.Success = true;
+                        return result;
+                    }
+
+                    return new ImageUploadResponse
+                    {
+                        Success = false,
+                        Message = "Invalid server response"
+                    };
+                }
+                else
+                {
+                    string errorMessage = "Upload failed";
+                    try
+                    {
+                        var errorResult = await response.Content.ReadFromJsonAsync<ImageUploadResponse>();
+                        errorMessage = errorResult?.Message ?? await response.Content.ReadAsStringAsync();
+                    }
+                    catch { }
+
+                    return new ImageUploadResponse
+                    {
+                        Success = false,
+                        Message = errorMessage
+                    };
+                }
+            }
+            catch (FormatException)
+            {
+                return new ImageUploadResponse
+                {
+                    Success = false,
+                    Message = "Invalid Base64 image data"
+                };
+            }
+            catch (Exception ex)
+            {
+                return new ImageUploadResponse
+                {
+                    Success = false,
+                    Message = $"Error uploading camera image: {ex.Message}"
+                };
+            }
+        }
+
+        public async Task<string> GetImageUrlAsync(string fileName)
+        {
+            if (string.IsNullOrEmpty(fileName))
+                return string.Empty;
+
+            // Gunakan BaseApiUrl yang sudah didefinisikan
+            return $"{BaseApiUrl}/uploads/{fileName}";
         }
     }
 }

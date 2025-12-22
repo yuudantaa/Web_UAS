@@ -1,276 +1,288 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\",
+  "WorkspaceRootPath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\method\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\method\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\method\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\method\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\detailtrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\detailtrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\daftartrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\daftartrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\daftarcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\daftarcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\dbmapper\\iniprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dbmapper\\iniprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\dbmapper\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dbmapper\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\platforms\\windows\\package.appxmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\windows\\package.appxmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\data\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\data\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\dto\\courseadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dto\\courseadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\tambahcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\tambahcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\cameracomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\cameracomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\services\\cameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\services\\cameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\trainercourse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\trainercourse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\services\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\trainercourse.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\trainercourse.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\editcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\editcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\editcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\imageupload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\imageupload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\method\\uploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\method\\uploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\method\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\method\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\model\\imageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\model\\imageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\model\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\model\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\model\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\model\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\model\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\model\\imageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\model\\imageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\method\\uploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\method\\uploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\dataef\\traineref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dataef\\traineref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\method\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\method\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\dataef\\courseef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dataef\\courseef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\imageupload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\imageupload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\tambahcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\tambahcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\data\\itrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\data\\itrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\daftarcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\daftarcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\cameracomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\cameracomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\edittrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\edittrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\daftartrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\daftartrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\trainercourse.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\trainercourse.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\method\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\method\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\dto\\traineradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dto\\traineradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web.client\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|solutionrelative:trainercourse\\trainercourse.web.client\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|solutionrelative:trainercourse\\trainercourse.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|solutionrelative:trainercourse\\trainercourse.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\services\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|solutionrelative:trainercourse\\trainercourse.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|solutionrelative:trainercourse\\trainercourse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\detailcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\dto\\courseadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dto\\courseadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\data\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\data\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\detailtrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\detailtrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\dbmapper\\iniprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dbmapper\\iniprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\dbmapper\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dbmapper\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\windows\\package.appxmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\windows\\package.appxmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\services\\cameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\services\\cameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\trainercourse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\trainercourse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\trainercourse.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\trainercourse.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\method\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\method\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\model\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\model\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\dataef\\traineref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dataef\\traineref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\dataef\\courseef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dataef\\courseef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\data\\itrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\data\\itrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\edittrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\edittrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\trainercourse.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\trainercourse.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\dto\\traineradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dto\\traineradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|solutionrelative:trainercourse\\trainercourse.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|solutionrelative:trainercourse\\trainercourse.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\detailcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\detailcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\tambahtrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\tambahtrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\tambahtrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\services\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\services\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\trainercourse.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\trainercourse.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\trainercourse.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\materi kuliah\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.shared\\services\\iformfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\services\\iformfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\iformfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|solutionrelative:trainercourse\\trainercourse.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.web.client\\trainercourse.web.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web.client\\trainercourse.web.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|solutionrelative:trainercourse\\trainercourse.web.client\\trainercourse.web.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse.web\\trainercourse.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web\\trainercourse.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|solutionrelative:trainercourse\\trainercourse.web\\trainercourse.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse.backend\\dto\\trainerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\dto\\trainerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\dto\\trainerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\materi kuliah\\mobilemauiapp\\trainercourse\\trainercourse\\trainercourse\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -281,52 +293,366 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Component.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T02:32:37.009Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DetailTrainer.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T13:57:00.342Z"
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAwwDkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:37:47.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EditCourse.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
+              "ViewState": "AgIAAAoBAAAAAAAAAADwvxcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T14:22:43.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadResult.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:16:31.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageUploadDto.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:20:52.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageUploadResponse.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:20:00.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageUpload.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv20AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T02:28:59.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TambahCourse.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
+              "ViewState": "AgIAAOwAAAAAAAAAAADwv/wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T04:36:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DaftarCourse.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T04:21:39.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraComponent.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
+              "ViewState": "AgIAAK4AAAAAAAAAAADwv8cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T02:28:29.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DaftarTrainer.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
+              "ViewState": "AgIAALAAAAAAAAAAAADwv8AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T04:06:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Program.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Program.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:18:15.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorResult.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:17:02.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\MauiProgram.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\MauiProgram.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\MauiProgram.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T05:56:51.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "camera.js",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv24AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-22T11:13:33.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "camera.js",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv24AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-22T11:13:24.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "camera.js",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv24AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-22T11:02:16.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICameraService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:32:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBQAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:35:07.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:30:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Program.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\Program.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Program.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:00:00.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Component.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T02:32:37.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:32:28.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Models\\Course.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Course.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\Models\\Course.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:04:30.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\CourseDTO.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseDTO.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\DTO\\CourseDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:08:27.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseAddDTO.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:09:57.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICourse.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ICourse.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Data\\ICourse.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ICourse.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\Data\\ICourse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:29:05.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\NavMenu.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-22T06:34:45.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 27,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -334,59 +660,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:37:47.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorResult.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T04:17:02.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DaftarTrainer.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
-              "ViewState": "AgIAALAAAAAAAAAAAADwv8AAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "DetailTrainer.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T04:06:59.434Z"
+              "WhenOpened": "2025-10-23T13:57:00.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DaftarCourse.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T04:21:39.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "MainActivity.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,11 +684,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 30,
               "Title": "Routes.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -406,11 +696,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 31,
               "Title": "IniProfile.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -418,11 +708,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 32,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,23 +720,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\MauiProgram.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\MauiProgram.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\MauiProgram.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBgAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T05:56:51.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 33,
               "Title": "Package.appxmanifest",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
@@ -454,47 +732,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ICourseService.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBMAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:35:07.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Models\\Course.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Models\\Course.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:04:30.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Program.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Program.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Program.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:18:15.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 34,
               "Title": "app.manifest",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
@@ -502,59 +744,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ICourse.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Data\\ICourse.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Data\\ICourse.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Data\\ICourse.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\Data\\ICourse.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T03:29:05.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CourseAddDTO.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:09:57.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "TambahCourse.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
-              "ViewState": "AgIAACYAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T04:36:53.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CameraComponent.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T02:28:29.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 35,
               "Title": "CameraService.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,11 +756,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 37,
               "Title": "MainApplication.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -574,11 +768,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -586,23 +780,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ICameraService.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T01:32:03.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "Info.plist",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -610,11 +792,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 36,
               "Title": "TrainerCourse.csproj",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\TrainerCourse.csproj",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\TrainerCourse.csproj",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\TrainerCourse.csproj",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\TrainerCourse.csproj",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\TrainerCourse.csproj",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\TrainerCourse.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -622,11 +804,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 40,
               "Title": "TrainerCourse.Shared.csproj",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -634,11 +816,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\AndroidManifest.xml",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\AndroidManifest.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
@@ -646,11 +828,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "Home.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
               "ViewState": "AgIAACgAAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -658,46 +840,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "MainApplication.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T01:25:50.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ImageUpload.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
-              "ViewState": "AgIAAF0AAAAAAAAAAADwv20AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T02:28:59.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "EditCourse.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
-              "ViewState": "AgIAAAEBAAAAAAAAAADwvxEBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T14:22:43.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 44,
               "Title": "TrainerService.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\TrainerService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\TrainerService.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\TrainerService.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\TrainerService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\TrainerService.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\TrainerService.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAwwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -705,47 +863,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ImageUploadDto.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:20:52.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "UploadResult.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T04:16:31.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ImageUploadResponse.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:20:00.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "Trainer.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -753,23 +875,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:32:28.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "TrainerEF.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\TrainerEF.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\TrainerEF.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DataEF\\TrainerEF.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\TrainerEF.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\TrainerEF.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\DataEF\\TrainerEF.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAADwv3EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -777,11 +887,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "CourseEF.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\CourseEF.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\CourseEF.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DataEF\\CourseEF.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\CourseEF.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\CourseEF.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\DataEF\\CourseEF.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAADwv5UAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -789,11 +899,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "Trainer.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Models\\Trainer.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\Models\\Trainer.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Models\\Trainer.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Trainer.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\Models\\Trainer.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -801,11 +911,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "ITrainer.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Data\\ITrainer.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ITrainer.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\Data\\ITrainer.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\Data\\ITrainer.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ITrainer.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\Data\\ITrainer.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -813,11 +923,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "App.g.i.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -825,11 +935,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "EditTrainer.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
               "ViewState": "AgIAABgAAAAAAAAAAIBJwEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -837,11 +947,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "TrainerCourse.Backend.http",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.http",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.http",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\TrainerCourse.Backend.http",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.http",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.http",
               "RelativeToolTip": "TrainerCourse.Backend\\TrainerCourse.Backend.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -849,11 +959,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\WeatherForecast.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\WeatherForecast.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\WeatherForecast.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\WeatherForecast.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -861,11 +971,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\appsettings.json",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\appsettings.json",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\appsettings.json",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\appsettings.json",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\appsettings.json",
               "RelativeToolTip": "TrainerCourse.Backend\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -873,11 +983,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "TrainerAddDTO.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerAddDTO.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerAddDTO.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\TrainerAddDTO.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerAddDTO.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerAddDTO.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\DTO\\TrainerAddDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -885,23 +995,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "CourseDTO.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseDTO.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\CourseDTO.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseDTO.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\DTO\\CourseDTO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:08:27.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 57,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\_Imports.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\Components\\_Imports.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\_Imports.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\_Imports.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -909,11 +1007,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 56,
               "Title": "App.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\App.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\App.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\Components\\App.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\App.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\App.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -921,23 +1019,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Program.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\Program.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Program.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:00:00.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 58,
               "Title": "DetailCourse.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailCourse.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailCourse.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailCourse.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailCourse.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailCourse.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailCourse.razor",
               "ViewState": "AgIAALUAAAAAAAAAAAAwwLwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -945,11 +1031,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 59,
               "Title": "TambahTrainer.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
               "ViewState": "AgIAACcAAAAAAAAAAIBJwAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -957,11 +1043,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 60,
               "Title": "ITrainerService.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ITrainerService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ITrainerService.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ITrainerService.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ITrainerService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ITrainerService.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ITrainerService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -969,11 +1055,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 61,
               "Title": "TrainerCourse.Backend.csproj",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
               "RelativeToolTip": "TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
               "ViewState": "AgIAAAQAAAAAAAAAAABBwAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -981,22 +1067,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 62,
               "Title": "IIdKlinikGeneratorService.cs",
               "DocumentMoniker": "D:\\materi kuliah\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs",
-              "RelativeDocumentMoniker": "..\\..\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\materi kuliah\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs",
               "ToolTip": "D:\\materi kuliah\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs",
-              "RelativeToolTip": "..\\..\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs",
+              "RelativeToolTip": "..\\..\\..\\materi kuliah\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T05:19:45.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 63,
               "Title": "app.css",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1004,11 +1090,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 64,
               "Title": "bootstrap.min.css",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1016,11 +1102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 65,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1028,11 +1114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 66,
               "Title": "IFormFactor.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\IFormFactor.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\IFormFactor.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\IFormFactor.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\IFormFactor.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\IFormFactor.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\IFormFactor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1040,23 +1126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:30:53.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "TrainerCourse.Web.Client.csproj",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1064,11 +1138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "TrainerCourse.Web.csproj",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1076,11 +1150,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "TrainerDTO.cs",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerDTO.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerDTO.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\TrainerDTO.cs",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerDTO.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerDTO.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\DTO\\TrainerDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1088,11 +1162,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "index.html",
-              "DocumentMoniker": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
-              "ToolTip": "D:\\materi kuliah\\MobileMauiApp\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
               "ViewState": "AgIAAA0AAAAAAAAAAEBVwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",

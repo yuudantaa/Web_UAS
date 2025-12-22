@@ -17,6 +17,7 @@ namespace TrainerCourse.Shared.Services
         Task DeleteCourseAsync(int id);
         Task<List<Course>> SearchCoursesAsync(string searchTerm);
         Task<ImageUploadResponse> UploadImageAsync(IBrowserFile file);
-        Task<string> GetImageUrlAsync(string fileName);
+        Task<string> GetImageUrl(string fileName);
+        Task<ImageUploadResponse> UploadCameraImageAsync(string imageDataUrl, string fileName = "camera_capture.jpg");
     }
 }
