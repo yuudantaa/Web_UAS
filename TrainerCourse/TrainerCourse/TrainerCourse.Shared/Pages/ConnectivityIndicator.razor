@@ -1,0 +1,60 @@
+﻿@using TrainerCourse.Shared.Services
+@inject IConnectivityService ConnectivityService
+@implements IDisposable
+
+<div class="connectivity-indicator @(_isConnected ? "online" : "offline")">
+    @if (_isConnected)
+    {
+        <span class="indicator-dot bg-success"></span>
+        <span class="indicator-text">Online</span>
+    }
+    else
+    {
+        <span class="indicator-dot bg-danger"></span>
+        <span class="indicator-text">Offline</span>
+        <button class="btn btn-sm btn-outline-light ms-2" @onclick="RetryConnection">
+            Retry
+        </button>
+    }
+</div>
+
+@code {
+    private bool _isConnected = true;
+    private bool _isChecking = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Initial check
+        _isConnected = await ConnectivityService.CheckConnectionAsync();
+
+        // Subscribe to changes
+        ConnectivityService.ConnectivityChanged += OnConnectivityChanged;
+
+        await base.OnInitializedAsync();
+    }
+
+    private void OnConnectivityChanged(object sender, bool isConnected)
+    {
+        _isConnected = isConnected;
+        StateHasChanged();
+    }
+
+    private async Task RetryConnection()
+    {
+        if (_isChecking) return;
+
+        _isChecking = true;
+        StateHasChanged();
+
+        await Task.Delay(1000); // Small delay for UX
+        _isConnected = await ConnectivityService.CheckConnectionAsync();
+
+        _isChecking = false;
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        ConnectivityService.ConnectivityChanged -= OnConnectivityChanged;
+    }
+}

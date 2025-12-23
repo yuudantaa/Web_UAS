@@ -1,0 +1,89 @@
+﻿@using TrainerCourse.Shared.Services
+@inject IConnectivityService ConnectivityService
+@inject NavigationManager Navigation
+
+@if (ShowError)
+{
+    <div class="network-error-overlay">
+        <div class="network-error-modal">
+            <div class="error-icon">
+                <i class="bi bi-wifi-off"></i>
+            </div>
+            <h4>Connection Lost</h4>
+            <p>You appear to be offline. Please check your internet connection.</p>
+
+            <div class="error-actions">
+                <button class="btn btn-primary" @onclick="RetryConnection">
+                    <i class="bi bi-arrow-clockwise"></i> Retry
+                </button>
+                <button class="btn btn-outline-secondary" @onclick="WorkOffline">
+                    <i class="bi bi-laptop"></i> Work Offline
+                </button>
+            </div>
+
+            <div class="connection-status mt-3">
+                <small>
+                    <i class="bi bi-info-circle"></i>
+                    Last check: @_lastCheckTime.ToString("HH:mm:ss")
+                </small>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    private bool ShowError = false;
+    private DateTime _lastCheckTime = DateTime.Now;
+    private System.Timers.Timer _checkTimer;
+
+    protected override async Task OnInitializedAsync()
+    {
+        ConnectivityService.ConnectivityChanged += OnConnectivityChanged;
+
+        // Initial check
+        await CheckConnection();
+
+        // Setup periodic checking
+        _checkTimer = new System.Timers.Timer(5000); // Check every 5 seconds
+        _checkTimer.Elapsed += async (s, e) => await CheckConnection();
+        _checkTimer.Start();
+    }
+
+    private async void OnConnectivityChanged(object sender, bool isConnected)
+    {
+        ShowError = !isConnected;
+        _lastCheckTime = DateTime.Now;
+        await InvokeAsync(StateHasChanged);
+    }
+
+    private async Task CheckConnection()
+    {
+        var isConnected = await ConnectivityService.CheckConnectionAsync();
+        ShowError = !isConnected;
+        _lastCheckTime = DateTime.Now;
+        await InvokeAsync(StateHasChanged);
+    }
+
+    private async Task RetryConnection()
+    {
+        await CheckConnection();
+        if (!ShowError)
+        {
+            // Reload the page if connection restored
+            Navigation.NavigateTo(Navigation.Uri, forceLoad: true);
+        }
+    }
+
+    private void WorkOffline()
+    {
+        ShowError = false;
+        // You could set an offline mode flag here
+    }
+
+    public void Dispose()
+    {
+        ConnectivityService.ConnectivityChanged -= OnConnectivityChanged;
+        _checkTimer?.Stop();
+        _checkTimer?.Dispose();
+    }
+}

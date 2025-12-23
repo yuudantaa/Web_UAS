@@ -1,5 +1,6 @@
 using TrainerCourse.Shared.Method;
 using TrainerCourse.Shared.Services;
+using TrainerCourse.Web.Client.Services;
 using TrainerCourse.Web.Components;
 using TrainerCourse.Web.Services;
 
@@ -11,7 +12,8 @@ builder.Services.AddRazorComponents()
     .AddInteractiveWebAssemblyComponents();
 
 // Add device-specific services used by the TrainerCourse.Shared project
-builder.Services.AddSingleton<IFormFactor, FormFactor>();
+builder.Services.AddScoped<IConnectivityService, WebConnectivityService>();
+builder.Services.AddTransient<NetworkAwareHttpClient>();
 builder.Services.AddHttpClient<ITrainerService, TrainerService>(client =>
 {
     client.BaseAddress = new Uri("https://localhost:7285/");

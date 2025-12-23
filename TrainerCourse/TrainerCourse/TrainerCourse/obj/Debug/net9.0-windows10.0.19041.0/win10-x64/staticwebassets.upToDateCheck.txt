@@ -1,4 +1,4 @@
-wwwroot\app.css
+wwwroot\js\connectivity.js
 wwwroot\Image\backend.png
 wwwroot\Image\iniGambar.jpg
 wwwroot\Image\online-course.jpg
@@ -6,7 +6,9 @@ wwwroot\Image\Screenshot.png
 wwwroot\index.html
 wwwroot\js\camera.js
 wwwroot\js\geolocation.js
+wwwroot\app.css
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\index.html
-D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\app.css
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\js\connectivity.js
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\js\camera.js
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\js\geolocation.js
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\wwwroot\app.css

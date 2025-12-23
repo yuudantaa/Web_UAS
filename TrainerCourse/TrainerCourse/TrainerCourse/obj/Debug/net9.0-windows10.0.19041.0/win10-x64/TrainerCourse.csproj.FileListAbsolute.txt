@@ -1066,7 +1066,6 @@ D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\rjsmrazor.dswa.cache.json
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\rjsmcshtml.dswa.cache.json
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\TrainerCourse.styles.css
-D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\4sujvo2kmk-obgb1x923p.gz
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\z8u8v8ck8n-tuuvjfmlzt.gz
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\nabkizgyfr-84ja9cb1zc.gz
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
@@ -1080,7 +1079,6 @@ D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.TrainerCourse.props
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.upToDateCheck.txt
-D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\4sujvo2kmk-obgb1x923p.br
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\z8u8v8ck8n-tuuvjfmlzt.br
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\nabkizgyfr-84ja9cb1zc.br
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
@@ -1199,3 +1197,13 @@ D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\myluryasvs-ai0iu8n1ob.gz
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\vvsubpv8e3-vkljuqgsyv.br
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\myluryasvs-ai0iu8n1ob.br
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\TrainerCourse.Shared\js\connectivity.js.gz
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\TrainerCourse.Shared\js\connectivity.js.br
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\TrainerCourse.Shared\js\connectivity.js
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\js\connectivity.js.gz
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\js\connectivity.js.br
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\js\connectivity.js
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\4sujvo2kmk-heer1jxcq8.gz
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\htn0gkbd30-qbb70xx01m.gz
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\4sujvo2kmk-heer1jxcq8.br
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\htn0gkbd30-qbb70xx01m.br

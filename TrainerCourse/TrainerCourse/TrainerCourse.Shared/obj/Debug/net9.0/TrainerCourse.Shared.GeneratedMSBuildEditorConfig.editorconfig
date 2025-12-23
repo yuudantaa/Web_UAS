@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/ConnectivityIndicator.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29ubmVjdGl2aXR5SW5kaWNhdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/DaftarCourse.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFmdGFyQ291cnNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -58,6 +62,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/ImageUpload.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1hZ2VVcGxvYWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/NetworkErrorHandler.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV0d29ya0Vycm9ySGFuZGxlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/backup hp/Web_UAS/TrainerCourse/TrainerCourse/TrainerCourse.Shared/Pages/TambahCourse.razor]

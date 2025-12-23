@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\js\\camera.js"
     },
     {
+      "Id": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\connectivity.js",
+      "PackagePath": "staticwebassets\\js\\connectivity.js"
+    },
+    {
       "Id": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\geolocation.js",
       "PackagePath": "staticwebassets\\js\\geolocation.js"
     },

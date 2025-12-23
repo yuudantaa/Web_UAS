@@ -19,7 +19,10 @@ namespace TrainerCourse
 
             // Add device-specific services used by the TrainerCourse.Shared project
             builder.Services.AddSingleton<IFormFactor, FormFactor>();
+            builder.Services.AddSingleton<IConnectivityService, ConnectivityService>();
             builder.Services.AddSingleton<ICameraService, CameraService>();
+            builder.Services.AddTransient<NetworkAwareHttpClient>();
+           
             builder.Services.AddHttpClient<ITrainerService, TrainerService>(client =>
             {
                 client.BaseAddress = new Uri("https://localhost:7285/");
@@ -28,7 +31,7 @@ namespace TrainerCourse
             {
                 client.BaseAddress = new Uri("https://localhost:7285/");
             });
-
+            
 
             builder.Services.AddMauiBlazorWebView();
 

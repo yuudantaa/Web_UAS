@@ -7,9 +7,11 @@ wwwroot\Image\iniGambar.jpg
 wwwroot\Image\online-course.jpg
 wwwroot\Image\Screenshot.png
 wwwroot\js\camera.js
+wwwroot\js\connectivity.js
 wwwroot\js\geolocation.js
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\bootstrap\bootstrap.min.css.map
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\bootstrap\bootstrap.min.css
-D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\app.css
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\js\connectivity.js
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\js\geolocation.js
 D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\js\camera.js
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Shared\wwwroot\app.css

@@ -7,6 +7,7 @@ var builder = WebAssemblyHostBuilder.CreateDefault(args);
 
 // Add device-specific services used by the TrainerCourse.Shared project
 builder.Services.AddSingleton<IFormFactor, FormFactor>();
+builder.Services.AddTransient<NetworkAwareHttpClient>();
 // Add HttpClient
 builder.Services.AddHttpClient<ITrainerService, TrainerService>(client =>
 {

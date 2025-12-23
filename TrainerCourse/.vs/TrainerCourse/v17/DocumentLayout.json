@@ -3,6 +3,82 @@
   "WorkspaceRootPath": "D:\\backup hp\\Web_UAS\\TrainerCourse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|solutionrelative:trainercourse\\trainercourse.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|solutionrelative:trainercourse\\trainercourse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web\\services\\webconnectivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|solutionrelative:trainercourse\\trainercourse.web\\services\\webconnectivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\services\\iconnectivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\iconnectivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\services\\networkawarehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\networkawarehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\networkerrorhandler.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\networkerrorhandler.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\connectivityindicator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\connectivityindicator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\cameracomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\cameracomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\services\\connectivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\services\\connectivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\wwwroot\\js\\connectivity.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\wwwroot\\js\\connectivity.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\trainercourse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\trainercourse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\editcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\editcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\daftarcourse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\cameracomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\cameracomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\daftartrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\daftartrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -51,10 +123,6 @@
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\method\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -63,24 +131,12 @@
       "RelativeMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|solutionrelative:trainercourse\\trainercourse.web.client\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\wwwroot\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\services\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\services\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEA208C8-4BE3-4D9F-A33D-784FEA765923}|TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj|solutionrelative:trainercourse\\trainercourse.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17E20AC-6492-44AC-903C-9725C55EF83B}|TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj|solutionrelative:trainercourse\\trainercourse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -105,14 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse.backend\\data\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18246139-06D6-41F3-8754-9568E0826B42}|TrainerCourse.Backend\\TrainerCourse.Backend.csproj|solutionrelative:trainercourse.backend\\data\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\detailtrainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -147,10 +195,6 @@
       "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\services\\cameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\trainercourse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\trainercourse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -173,10 +217,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F98A1701-3A91-4E48-9CF5-50ABFB23030B}|TrainerCourse\\TrainerCourse\\TrainerCourse.csproj|solutionrelative:trainercourse\\trainercourse\\platforms\\android\\mainapplication.cs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\method\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -254,16 +294,8 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\materi kuliah\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|solutionrelative:trainercourse\\trainercourse.shared\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{174A08B0-46F7-47AA-94FC-1B80577D5C7A}|TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj|d:\\backup hp\\web_uas\\trainercourse\\trainercourse\\trainercourse.shared\\services\\iformfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -293,349 +325,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
-              "ViewState": "AgIAACkBAAAAAAAAAAAwwDkBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:37:47.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditCourse.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
-              "ViewState": "AgIAAAoBAAAAAAAAAADwvxcBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T14:22:43.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UploadResult.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T04:16:31.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImageUploadDto.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:20:52.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImageUploadResponse.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:20:00.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ImageUpload.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
-              "ViewState": "AgIAAF0AAAAAAAAAAADwv20AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T02:28:59.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TambahCourse.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
-              "ViewState": "AgIAAOwAAAAAAAAAAADwv/wAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T04:36:53.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DaftarCourse.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T04:21:39.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CameraComponent.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
-              "ViewState": "AgIAAK4AAAAAAAAAAADwv8cAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T02:28:29.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DaftarTrainer.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
-              "ViewState": "AgIAALAAAAAAAAAAAADwv8AAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T04:06:59.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Program.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Program.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Program.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAACUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:18:15.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorResult.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T04:17:02.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\MauiProgram.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\MauiProgram.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\MauiProgram.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T05:56:51.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "camera.js",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
-              "ViewState": "AgIAAF4AAAAAAAAAAADwv24AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-22T11:13:33.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "camera.js",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
-              "ViewState": "AgIAAF4AAAAAAAAAAADwv24AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-22T11:13:24.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "camera.js",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
-              "ViewState": "AgIAAF4AAAAAAAAAAADwv24AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-22T11:02:16.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ICameraService.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T01:32:03.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ICourseService.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBQAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:35:07.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:30:53.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Program.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\Program.cs",
               "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Program.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T06:00:00.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Component.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web.Client\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:30:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T02:32:37.009Z",
+              "WhenOpened": "2025-10-22T06:33:48.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:32:28.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Models\\Course.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Course.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\Models\\Course.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:04:30.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CourseDTO.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseDTO.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\CourseDTO.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseDTO.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\DTO\\CourseDTO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:08:27.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CourseAddDTO.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:09:57.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ICourse.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ICourse.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Data\\ICourse.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ICourse.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\Data\\ICourse.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T03:29:05.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Layout\\NavMenu.razor",
@@ -648,151 +381,189 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 3,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
               "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T06:40:03.801Z"
+              "WhenOpened": "2025-10-22T06:40:03.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DetailTrainer.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T13:57:00.342Z"
+              "WhenOpened": "2025-10-22T06:33:25.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-26T14:30:45.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebConnectivityService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Services\\WebConnectivityService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\Services\\WebConnectivityService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Services\\WebConnectivityService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\Services\\WebConnectivityService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T01:26:09.372Z"
+              "WhenOpened": "2025-12-23T06:48:41.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IConnectivityService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\IConnectivityService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\IConnectivityService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\IConnectivityService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\IConnectivityService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:15:50.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NetworkAwareHttpClient.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\NetworkAwareHttpClient.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\NetworkAwareHttpClient.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\NetworkAwareHttpClient.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\NetworkAwareHttpClient.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:29:58.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NetworkErrorHandler.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\NetworkErrorHandler.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\NetworkErrorHandler.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\NetworkErrorHandler.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\NetworkErrorHandler.razor",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv1gAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T09:52:08.586Z"
+              "WhenOpened": "2025-12-23T06:38:34.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IniProfile.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAQAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ConnectivityIndicator.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ConnectivityIndicator.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ConnectivityIndicator.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ConnectivityIndicator.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ConnectivityIndicator.razor",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T06:27:41.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraComponent.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\CameraComponent.razor",
+              "ViewState": "AgIAAJkAAAAAAAAAAADwv8cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T02:28:29.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\MauiProgram.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\MauiProgram.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\MauiProgram.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:15:03.469Z"
+              "WhenOpened": "2025-10-23T05:56:51.492Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
-              "RelativeToolTip": "TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "connectivity.js",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\js\\connectivity.js",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\wwwroot\\js\\connectivity.js",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\js\\connectivity.js",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\wwwroot\\js\\connectivity.js",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-23T06:23:38.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\wwwroot\\app.css",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\app.css",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\wwwroot\\app.css",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-23T06:28:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConnectivityService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\ConnectivityService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Services\\ConnectivityService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\ConnectivityService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Services\\ConnectivityService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:13:34.968Z"
+              "WhenOpened": "2025-12-23T06:16:43.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Package.appxmanifest",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
-              "WhenOpened": "2025-11-27T03:21:57.354Z"
+              "DocumentIndex": 19,
+              "Title": "EditCourse.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditCourse.razor",
+              "ViewState": "AgIAAAoBAAAAAAAAAIBJwBcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T14:22:43.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "app.manifest",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2025-11-26T05:39:46.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "CameraService.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:25:52.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "MainApplication.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T01:26:47.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:23:39.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Info.plist",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-27T01:50:59.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 17,
               "Title": "TrainerCourse.csproj",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\TrainerCourse.csproj",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\TrainerCourse.csproj",
@@ -800,11 +571,428 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\TrainerCourse.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-23T06:26:14.057Z"
+              "WhenOpened": "2025-10-23T06:26:14.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ImageUploadDto.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:20:52.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ImageUploadResponse.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\ImageUploadResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:20:00.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "camera.js",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\wwwroot\\js\\camera.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv24AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-22T11:02:16.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UploadResult.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\UploadResult.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:16:31.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\CourseService.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAwwDkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:37:47.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ImageUpload.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\ImageUpload.razor",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv20AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T02:28:59.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TambahCourse.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahCourse.razor",
+              "ViewState": "AgIAAOwAAAAAAAAAAADwv/wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T04:36:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DaftarCourse.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarCourse.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T04:21:39.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DaftarTrainer.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DaftarTrainer.razor",
+              "ViewState": "AgIAALAAAAAAAAAAAADwv8AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T04:06:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Program.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Program.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:18:15.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorResult.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\ErrorResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:17:02.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "camera.js",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\js\\camera.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv24AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-22T11:13:33.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "camera.js",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web.Client\\wwwroot\\js\\camera.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv24AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-22T11:13:24.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICameraService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICameraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:32:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ICourseService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBQAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:35:07.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Component.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Component.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T02:32:37.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\Course.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:32:28.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Models\\Course.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Course.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\Models\\Course.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:04:30.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\CourseDTO.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseDTO.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\DTO\\CourseDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:08:27.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CourseAddDTO.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\DTO\\CourseAddDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:09:57.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICourse.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ICourse.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\Data\\ICourse.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ICourse.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\Data\\ICourse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:29:05.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
+              "Title": "DetailTrainer.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailTrainer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:57:00.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:26:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T09:52:08.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IniProfile.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\DbMapper\\IniProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:15:03.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TrainerCourse.Backend\\DbMapper\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBQwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:13:34.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\Package.appxmanifest",
+              "ViewState": "AgIAABYAAAAAAAAAAABBwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2025-11-27T03:21:57.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Windows\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-11-26T05:39:46.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CameraService.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Services\\CameraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:25:52.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:26:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:23:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Info.plist",
+              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\iOS\\Info.plist",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-27T01:50:59.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
               "Title": "TrainerCourse.Shared.csproj",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
@@ -812,11 +1000,12 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\TrainerCourse.Shared.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-23T06:10:11.74Z"
+              "WhenOpened": "2025-10-23T06:10:11.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 52,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\AndroidManifest.xml",
@@ -824,23 +1013,12 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\AndroidManifest.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-11-27T01:24:59.115Z"
+              "WhenOpened": "2025-11-27T01:24:59.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\Home.razor",
-              "ViewState": "AgIAACgAAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T06:33:48.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 53,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\Platforms\\Android\\MainApplication.cs",
@@ -851,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 54,
               "Title": "TrainerService.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Method\\TrainerService.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Method\\TrainerService.cs",
@@ -859,23 +1037,25 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Method\\TrainerService.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAwwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:12:56.412Z"
+              "WhenOpened": "2025-10-23T06:12:56.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 55,
               "Title": "Trainer.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
               "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Model\\Trainer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:10:33.656Z"
+              "WhenOpened": "2025-10-23T06:10:33.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 56,
               "Title": "TrainerEF.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\TrainerEF.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DataEF\\TrainerEF.cs",
@@ -883,11 +1063,12 @@
               "RelativeToolTip": "TrainerCourse.Backend\\DataEF\\TrainerEF.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAADwv3EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T03:32:41.189Z"
+              "WhenOpened": "2025-10-23T03:32:41.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 57,
               "Title": "CourseEF.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DataEF\\CourseEF.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DataEF\\CourseEF.cs",
@@ -895,35 +1076,38 @@
               "RelativeToolTip": "TrainerCourse.Backend\\DataEF\\CourseEF.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAADwv5UAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T03:45:33.532Z"
+              "WhenOpened": "2025-10-23T03:45:33.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 58,
               "Title": "Trainer.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\Models\\Trainer.cs",
               "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Models\\Trainer.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\Models\\Trainer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:47:48.179Z"
+              "WhenOpened": "2025-10-22T06:47:48.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 59,
               "Title": "ITrainer.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ITrainer.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\Data\\ITrainer.cs",
               "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\Data\\ITrainer.cs",
               "RelativeToolTip": "TrainerCourse.Backend\\Data\\ITrainer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T03:28:47.934Z"
+              "WhenOpened": "2025-10-23T03:28:47.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 60,
               "Title": "App.g.i.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
@@ -931,23 +1115,25 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T04:25:41.201Z"
+              "WhenOpened": "2025-11-13T04:25:41.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 61,
               "Title": "EditTrainer.razor",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
               "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\EditTrainer.razor",
-              "ViewState": "AgIAABgAAAAAAAAAAIBJwEwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBZwEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T14:23:53.452Z"
+              "WhenOpened": "2025-10-23T14:23:53.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 62,
               "Title": "TrainerCourse.Backend.http",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.http",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\TrainerCourse.Backend.http",
@@ -955,11 +1141,12 @@
               "RelativeToolTip": "TrainerCourse.Backend\\TrainerCourse.Backend.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-29T05:46:54.007Z"
+              "WhenOpened": "2025-10-29T05:46:54.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 63,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\WeatherForecast.cs",
@@ -967,11 +1154,12 @@
               "RelativeToolTip": "TrainerCourse.Backend\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T05:22:16.581Z"
+              "WhenOpened": "2025-11-03T05:22:16.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 64,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\appsettings.json",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\appsettings.json",
@@ -979,11 +1167,12 @@
               "RelativeToolTip": "TrainerCourse.Backend\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T07:17:51.535Z"
+              "WhenOpened": "2025-10-22T07:17:51.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 65,
               "Title": "TrainerAddDTO.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerAddDTO.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\TrainerAddDTO.cs",
@@ -991,11 +1180,12 @@
               "RelativeToolTip": "TrainerCourse.Backend\\DTO\\TrainerAddDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:11:45.812Z"
+              "WhenOpened": "2025-10-22T07:11:45.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 67,
               "Title": "_Imports.razor",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\Components\\_Imports.razor",
@@ -1003,11 +1193,12 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T04:50:04.695Z"
+              "WhenOpened": "2025-11-03T04:50:04.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 66,
               "Title": "App.razor",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\Components\\App.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\Components\\App.razor",
@@ -1015,11 +1206,12 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T06:38:27.517Z"
+              "WhenOpened": "2025-10-22T06:38:27.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 68,
               "Title": "DetailCourse.razor",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailCourse.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailCourse.razor",
@@ -1027,23 +1219,25 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\DetailCourse.razor",
               "ViewState": "AgIAALUAAAAAAAAAAAAwwLwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T13:10:51.213Z"
+              "WhenOpened": "2025-10-23T13:10:51.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 69,
               "Title": "TambahTrainer.razor",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
               "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Pages\\TambahTrainer.razor",
-              "ViewState": "AgIAACcAAAAAAAAAAIBJwAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAIBZwAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T05:41:24.35Z"
+              "WhenOpened": "2025-10-23T05:41:24.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 70,
               "Title": "ITrainerService.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\ITrainerService.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\ITrainerService.cs",
@@ -1051,23 +1245,25 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\ITrainerService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:11:09.524Z"
+              "WhenOpened": "2025-10-23T06:11:09.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 71,
               "Title": "TrainerCourse.Backend.csproj",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
               "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
               "RelativeToolTip": "TrainerCourse.Backend\\TrainerCourse.Backend.csproj",
-              "ViewState": "AgIAAAQAAAAAAAAAAABBwAsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T06:48:48.637Z"
+              "WhenOpened": "2025-10-22T06:48:48.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 72,
               "Title": "IIdKlinikGeneratorService.cs",
               "DocumentMoniker": "D:\\materi kuliah\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\materi kuliah\\Folder Magang\\ApiProjectMagangDotnet\\ApiProjectMagangDotnet\\Data\\IIdKlinikGeneratorService.cs",
@@ -1078,19 +1274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "app.css",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\app.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-26T14:30:45.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 73,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
@@ -1098,23 +1282,12 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-26T14:32:52.382Z"
+              "WhenOpened": "2025-10-26T14:32:52.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
-              "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
-              "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
-              "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T06:33:25.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 74,
               "Title": "IFormFactor.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Shared\\Services\\IFormFactor.cs",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Shared\\Services\\IFormFactor.cs",
@@ -1122,11 +1295,12 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Shared\\Services\\IFormFactor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:21:24.701Z"
+              "WhenOpened": "2025-10-23T07:21:24.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 75,
               "Title": "TrainerCourse.Web.Client.csproj",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
@@ -1134,11 +1308,12 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web.Client\\TrainerCourse.Web.Client.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-23T06:28:54.068Z"
+              "WhenOpened": "2025-10-23T06:28:54.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 76,
               "Title": "TrainerCourse.Web.csproj",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj",
@@ -1146,11 +1321,12 @@
               "RelativeToolTip": "TrainerCourse\\TrainerCourse.Web\\TrainerCourse.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-23T06:28:23.728Z"
+              "WhenOpened": "2025-10-23T06:28:23.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 77,
               "Title": "TrainerDTO.cs",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse.Backend\\DTO\\TrainerDTO.cs",
               "RelativeDocumentMoniker": "TrainerCourse.Backend\\DTO\\TrainerDTO.cs",
@@ -1158,19 +1334,21 @@
               "RelativeToolTip": "TrainerCourse.Backend\\DTO\\TrainerDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:07:52.219Z"
+              "WhenOpened": "2025-10-22T07:07:52.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 78,
               "Title": "index.html",
               "DocumentMoniker": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
               "ToolTip": "D:\\backup hp\\Web_UAS\\TrainerCourse\\TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
               "RelativeToolTip": "TrainerCourse\\TrainerCourse\\wwwroot\\index.html",
-              "ViewState": "AgIAAA0AAAAAAAAAAEBVwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAMBdwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-22T06:27:41.643Z"
+              "WhenOpened": "2025-10-22T06:27:41.643Z",
+              "EditorCaption": ""
             }
           ]
         }
