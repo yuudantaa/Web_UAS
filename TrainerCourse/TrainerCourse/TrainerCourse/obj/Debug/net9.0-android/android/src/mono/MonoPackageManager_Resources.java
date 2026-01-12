@@ -42,6 +42,7 @@ public class MonoPackageManager_Resources {
 		"Xamarin.Android.Glide.Annotations.dll",
 		"Xamarin.Android.Glide.DiskLruCache.dll",
 		"Xamarin.Android.Glide.GifDecoder.dll",
+		"Xamarin.Android.Volley.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Activity.Ktx.dll",
 		"Xamarin.AndroidX.Annotation.dll",

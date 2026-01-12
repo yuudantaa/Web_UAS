@@ -2,7 +2,13 @@ wwwroot\Image\backend.png
 wwwroot\Image\iniGambar.jpg
 wwwroot\Image\online-course.jpg
 wwwroot\Image\Screenshot.png
+wwwroot\js\camera.js
+wwwroot\js\geolocation.js
+wwwroot\js\connectivity.js
 wwwroot\appsettings.Development.json
 wwwroot\appsettings.json
-D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Web.Client\wwwroot\appsettings.Development.json
-D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Web.Client\wwwroot\appsettings.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web.Client\wwwroot\js\camera.js
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web.Client\wwwroot\js\geolocation.js
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web.Client\wwwroot\js\connectivity.js
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web.Client\wwwroot\appsettings.Development.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web.Client\wwwroot\appsettings.json

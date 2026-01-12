@@ -859,6 +859,87 @@ com.bumptech.glide.gifdecoder.GifDecoder$GifDecodeStatus;com.bumptech.glide.gifd
 Bumptech.Glide.GifDecoder.IGifDecoder, Xamarin.Android.Glide.GifDecoder;com.bumptech.glide.gifdecoder.GifDecoder
 Bumptech.Glide.GifDecoder.IGifDecoder;com.bumptech.glide.gifdecoder.GifDecoder
 com.bumptech.glide.gifdecoder.GifDecoder;com.bumptech.glide.gifdecoder.GifDecoder
+Volley.AsyncCache+IOnGetCompleteCallback, Xamarin.Android.Volley;com.android.volley.AsyncCache$OnGetCompleteCallback
+Volley.AsyncCache.IOnGetCompleteCallback;com.android.volley.AsyncCache$OnGetCompleteCallback
+com.android.volley.AsyncCache$OnGetCompleteCallback;com.android.volley.AsyncCache$OnGetCompleteCallback
+Volley.AsyncCache+IOnWriteCompleteCallback, Xamarin.Android.Volley;com.android.volley.AsyncCache$OnWriteCompleteCallback
+Volley.AsyncCache.IOnWriteCompleteCallback;com.android.volley.AsyncCache$OnWriteCompleteCallback
+com.android.volley.AsyncCache$OnWriteCompleteCallback;com.android.volley.AsyncCache$OnWriteCompleteCallback
+Volley.AsyncNetwork+IOnRequestComplete, Xamarin.Android.Volley;com.android.volley.AsyncNetwork$OnRequestComplete
+Volley.AsyncNetwork.IOnRequestComplete;com.android.volley.AsyncNetwork$OnRequestComplete
+com.android.volley.AsyncNetwork$OnRequestComplete;com.android.volley.AsyncNetwork$OnRequestComplete
+Volley.ICache, Xamarin.Android.Volley;com.android.volley.Cache
+Volley.ICache;com.android.volley.Cache
+com.android.volley.Cache;com.android.volley.Cache
+Volley.INetwork, Xamarin.Android.Volley;com.android.volley.Network
+Volley.INetwork;com.android.volley.Network
+com.android.volley.Network;com.android.volley.Network
+Volley.IResponseDelivery, Xamarin.Android.Volley;com.android.volley.ResponseDelivery
+Volley.IResponseDelivery;com.android.volley.ResponseDelivery
+com.android.volley.ResponseDelivery;com.android.volley.ResponseDelivery
+Volley.IRetryPolicy, Xamarin.Android.Volley;com.android.volley.RetryPolicy
+Volley.IRetryPolicy;com.android.volley.RetryPolicy
+com.android.volley.RetryPolicy;com.android.volley.RetryPolicy
+Volley.Request+IMethod, Xamarin.Android.Volley;com.android.volley.Request$Method
+Volley.Request.IMethod;com.android.volley.Request$Method
+com.android.volley.Request$Method;com.android.volley.Request$Method
+Volley.RequestQueue+RequestQueueRequestEvent, Xamarin.Android.Volley;com.android.volley.RequestQueue$RequestEvent
+Volley.RequestQueue.RequestQueueRequestEvent;com.android.volley.RequestQueue$RequestEvent
+com.android.volley.RequestQueue$RequestEvent;com.android.volley.RequestQueue$RequestEvent
+Volley.RequestQueue+IRequestEventListener, Xamarin.Android.Volley;com.android.volley.RequestQueue$RequestEventListener
+Volley.RequestQueue.IRequestEventListener;com.android.volley.RequestQueue$RequestEventListener
+com.android.volley.RequestQueue$RequestEventListener;com.android.volley.RequestQueue$RequestEventListener
+Volley.RequestQueue+IRequestEventListenerImplementor, Xamarin.Android.Volley;mono.com.android.volley.RequestQueue_RequestEventListenerImplementor
+Volley.RequestQueue.IRequestEventListenerImplementor;mono.com.android.volley.RequestQueue_RequestEventListenerImplementor
+mono.com.android.volley.RequestQueue_RequestEventListenerImplementor;mono.com.android.volley.RequestQueue_RequestEventListenerImplementor
+Volley.RequestQueue+IRequestFilter, Xamarin.Android.Volley;com.android.volley.RequestQueue$RequestFilter
+Volley.RequestQueue.IRequestFilter;com.android.volley.RequestQueue$RequestFilter
+com.android.volley.RequestQueue$RequestFilter;com.android.volley.RequestQueue$RequestFilter
+Volley.RequestQueue+IRequestFinishedListener, Xamarin.Android.Volley;com.android.volley.RequestQueue$RequestFinishedListener
+Volley.RequestQueue.IRequestFinishedListener;com.android.volley.RequestQueue$RequestFinishedListener
+com.android.volley.RequestQueue$RequestFinishedListener;com.android.volley.RequestQueue$RequestFinishedListener
+Volley.RequestQueue+IRequestFinishedListenerImplementor, Xamarin.Android.Volley;mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor
+Volley.RequestQueue.IRequestFinishedListenerImplementor;mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor
+mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor;mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor
+Volley.Response+IErrorListener, Xamarin.Android.Volley;com.android.volley.Response$ErrorListener
+Volley.Response.IErrorListener;com.android.volley.Response$ErrorListener
+com.android.volley.Response$ErrorListener;com.android.volley.Response$ErrorListener
+Volley.Response+IErrorListenerImplementor, Xamarin.Android.Volley;mono.com.android.volley.Response_ErrorListenerImplementor
+Volley.Response.IErrorListenerImplementor;mono.com.android.volley.Response_ErrorListenerImplementor
+mono.com.android.volley.Response_ErrorListenerImplementor;mono.com.android.volley.Response_ErrorListenerImplementor
+Volley.Response+IListener, Xamarin.Android.Volley;com.android.volley.Response$Listener
+Volley.Response.IListener;com.android.volley.Response$Listener
+com.android.volley.Response$Listener;com.android.volley.Response$Listener
+Volley.Response+IListenerImplementor, Xamarin.Android.Volley;mono.com.android.volley.Response_ListenerImplementor
+Volley.Response.IListenerImplementor;mono.com.android.volley.Response_ListenerImplementor
+mono.com.android.volley.Response_ListenerImplementor;mono.com.android.volley.Response_ListenerImplementor
+Volley.Toolbox.AsyncHttpStack+IOnRequestComplete, Xamarin.Android.Volley;com.android.volley.toolbox.AsyncHttpStack$OnRequestComplete
+Volley.Toolbox.AsyncHttpStack.IOnRequestComplete;com.android.volley.toolbox.AsyncHttpStack$OnRequestComplete
+com.android.volley.toolbox.AsyncHttpStack$OnRequestComplete;com.android.volley.toolbox.AsyncHttpStack$OnRequestComplete
+Volley.Toolbox.DiskBasedCache+IFileSupplier, Xamarin.Android.Volley;com.android.volley.toolbox.DiskBasedCache$FileSupplier
+Volley.Toolbox.DiskBasedCache.IFileSupplier;com.android.volley.toolbox.DiskBasedCache$FileSupplier
+com.android.volley.toolbox.DiskBasedCache$FileSupplier;com.android.volley.toolbox.DiskBasedCache$FileSupplier
+Volley.Toolbox.HurlStack+IUrlRewriter, Xamarin.Android.Volley;com.android.volley.toolbox.HurlStack$UrlRewriter
+Volley.Toolbox.HurlStack.IUrlRewriter;com.android.volley.toolbox.HurlStack$UrlRewriter
+com.android.volley.toolbox.HurlStack$UrlRewriter;com.android.volley.toolbox.HurlStack$UrlRewriter
+Volley.Toolbox.IAuthenticator, Xamarin.Android.Volley;com.android.volley.toolbox.Authenticator
+Volley.Toolbox.IAuthenticator;com.android.volley.toolbox.Authenticator
+com.android.volley.toolbox.Authenticator;com.android.volley.toolbox.Authenticator
+Volley.Toolbox.IFileSupplier, Xamarin.Android.Volley;com.android.volley.toolbox.FileSupplier
+Volley.Toolbox.IFileSupplier;com.android.volley.toolbox.FileSupplier
+com.android.volley.toolbox.FileSupplier;com.android.volley.toolbox.FileSupplier
+Volley.Toolbox.IHttpStack, Xamarin.Android.Volley;com.android.volley.toolbox.HttpStack
+Volley.Toolbox.IHttpStack;com.android.volley.toolbox.HttpStack
+com.android.volley.toolbox.HttpStack;com.android.volley.toolbox.HttpStack
+Volley.Toolbox.ImageLoader+IImageCache, Xamarin.Android.Volley;com.android.volley.toolbox.ImageLoader$ImageCache
+Volley.Toolbox.ImageLoader.IImageCache;com.android.volley.toolbox.ImageLoader$ImageCache
+com.android.volley.toolbox.ImageLoader$ImageCache;com.android.volley.toolbox.ImageLoader$ImageCache
+Volley.Toolbox.ImageLoader+IImageListener, Xamarin.Android.Volley;com.android.volley.toolbox.ImageLoader$ImageListener
+Volley.Toolbox.ImageLoader.IImageListener;com.android.volley.toolbox.ImageLoader$ImageListener
+com.android.volley.toolbox.ImageLoader$ImageListener;com.android.volley.toolbox.ImageLoader$ImageListener
+Volley.Toolbox.IUrlRewriter, Xamarin.Android.Volley;com.android.volley.toolbox.UrlRewriter
+Volley.Toolbox.IUrlRewriter;com.android.volley.toolbox.UrlRewriter
+com.android.volley.toolbox.UrlRewriter;com.android.volley.toolbox.UrlRewriter
 AndroidX.Activity.BackEventCompat+ISwipeEdge, Xamarin.AndroidX.Activity;androidx.activity.BackEventCompat$SwipeEdge
 AndroidX.Activity.BackEventCompat.ISwipeEdge;androidx.activity.BackEventCompat$SwipeEdge
 androidx.activity.BackEventCompat$SwipeEdge;androidx.activity.BackEventCompat$SwipeEdge

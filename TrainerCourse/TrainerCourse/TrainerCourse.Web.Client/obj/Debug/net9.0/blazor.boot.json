@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TrainerCourse.Web.Client",
   "resources": {
-    "hash": "sha256-jyMhdi52aF4RpHsSskgL2+CvzErb76EcCdwCrN7JtO8=",
+    "hash": "sha256-5Cpg1u/qhWXInaT+PlEFrGpfh8b3m1L1+YCSXhVEgwM=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.n7we7nbch1.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.waskkzx0nn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -205,10 +205,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "TrainerCourse.Shared.3qfgy4ycoh.wasm": "TrainerCourse.Shared.wasm",
-      "TrainerCourse.Shared.exz1sq9jhy.pdb": "TrainerCourse.Shared.pdb",
-      "TrainerCourse.Web.Client.hjtdxsb3st.wasm": "TrainerCourse.Web.Client.wasm",
-      "TrainerCourse.Web.Client.wndn370skl.pdb": "TrainerCourse.Web.Client.pdb"
+      "TrainerCourse.Shared.4lmssckbmr.wasm": "TrainerCourse.Shared.wasm",
+      "TrainerCourse.Shared.w5p3igy533.pdb": "TrainerCourse.Shared.pdb",
+      "TrainerCourse.Web.Client.bpylfluttg.wasm": "TrainerCourse.Web.Client.wasm",
+      "TrainerCourse.Web.Client.7f498c3cv0.pdb": "TrainerCourse.Web.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.9ih887ebfz.js": "sha256-oS7IRiQoVt9ThQ7Y2UM3XoeY0JqPD02cg9IvRdufn2w="
@@ -422,12 +422,12 @@
       "WindowsBase.vy2l5u79y6.wasm": "sha256-ufB9Mo5joMyUs3DzXWWBFFIZNEVrt6h9N5stYB6Oln4=",
       "mscorlib.xd6mv31d55.wasm": "sha256-1YSLR2eZt3ceALFV//vZUF2AloxVil3VlrW1zZYPSEI=",
       "netstandard.kaml52uspo.wasm": "sha256-HLEwBpLfzKw2/zGSVzHzFJxznCkt/WIjahrziiMrOpA=",
-      "TrainerCourse.Shared.3qfgy4ycoh.wasm": "sha256-m8Xkboq2Zx96O1FJ8a0HcYXUnw6ziS9fUrzi9zfEsx4=",
-      "TrainerCourse.Web.Client.hjtdxsb3st.wasm": "sha256-MwiOws/LUEueWYepwtkNxmG/jYrR6uTayoHdKvrpMbw="
+      "TrainerCourse.Shared.4lmssckbmr.wasm": "sha256-WK39qzbKXDc1mcUDosnWyeze4G1n2bOuJeMugHicxs8=",
+      "TrainerCourse.Web.Client.bpylfluttg.wasm": "sha256-EVry3yJTy/z0Uu+OnM/sKETQOupQoAlx8agUmxcQ7AM="
     },
     "pdb": {
-      "TrainerCourse.Shared.exz1sq9jhy.pdb": "sha256-3v/8iHzyau/T9r+rhwJij3eUldGteGGgxSoVbCKykTY=",
-      "TrainerCourse.Web.Client.wndn370skl.pdb": "sha256-FPwAA0isyJDhXv97PK+y6VJVMpj2WVgyQvNlzbwxTNA="
+      "TrainerCourse.Shared.w5p3igy533.pdb": "sha256-3GtfJRRP9NLiuwcPoX0PnNED5xHwR1LkvvFomW68DUM=",
+      "TrainerCourse.Web.Client.7f498c3cv0.pdb": "sha256-o2Zq/+UAvNps0itFivusyc3MlYUV9vRn2wkLvzRBLNU="
     }
   },
   "cacheBootResources": true,

@@ -76,3 +76,14 @@ D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Web\bin
 D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Web\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
 D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Web\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
 D:\materi kuliah\MobileMauiApp\TrainerCourse\TrainerCourse\TrainerCourse.Web\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\TrainerCourse.Web.csproj.AssemblyReference.cache
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\TrainerCourse.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\TrainerCourse.Web.AssemblyInfoInputs.cache
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\TrainerCourse.Web.AssemblyInfo.cs
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\TrainerCourse.Web.csproj.CoreCompileInputs.cache
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\TrainerCourse.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\TrainerCourse.Web.sourcelink.json
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\TrainerCourse.Web.dll
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\refint\TrainerCourse.Web.dll
+D:\backup hp\Web_UAS\TrainerCourse\TrainerCourse\TrainerCourse.Web\obj\Debug\net9.0\TrainerCourse.Web.pdb

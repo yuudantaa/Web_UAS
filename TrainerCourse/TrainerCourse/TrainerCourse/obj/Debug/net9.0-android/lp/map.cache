@@ -10,6 +10,7 @@ Xamarin.Android.Glide.Annotations.dll
 Xamarin.Android.Glide.DiskLruCache.dll
 Xamarin.Android.Glide.dll
 Xamarin.Android.Glide.GifDecoder.dll
+Xamarin.Android.Volley.dll
 Xamarin.AndroidX.Activity.dll
 Xamarin.AndroidX.Activity.Ktx.dll
 Xamarin.AndroidX.Annotation.dll
@@ -163,6 +164,7 @@ Xamarin.Android.Glide.Annotations.aar
 Xamarin.Android.Glide.DiskLruCache.aar
 glide.aar
 gifdecoder.aar
+volley.aar
 Xamarin.Google.Crypto.Tink.Android.aar
 Xamarin.Google.ErrorProne.Annotations.aar
 Xamarin.Google.ErrorProne.TypeAnnotations.aar
@@ -177,7 +179,4 @@ Xamarin.KotlinX.Coroutines.Core.aar
 Xamarin.KotlinX.Coroutines.Core.Jvm.aar
 Xamarin.KotlinX.Serialization.Core.aar
 Xamarin.KotlinX.Serialization.Core.Jvm.aar
-Xamarin.Essentials.dll
-Xamarin.Android.Volley.dll
-volley.aar
 volley-1.2.1.aar
